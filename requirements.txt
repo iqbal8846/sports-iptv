@@ -1,0 +1,4 @@
+# Zero external packages required!
+# generator.py uses 100% Python Standard Library (urllib, concurrent.futures, json, re, ssl)
+# so it runs anywhere (Windows, Linux, GitHub Actions) without pip install errors.
+

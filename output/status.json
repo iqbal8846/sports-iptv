@@ -1,0 +1,259 @@
+{
+  "updated_at_bdt": "2026-11-13 11:11:08 PM (BDT / UTC+6)",
+  "updated_at_utc": "2026-11-13T17:11:08.202966+00:00",
+  "sources_scanned": 1,
+  "total_sports_candidates": 395,
+  "working_counts": {
+    "sports_all": 395,
+    "football": 132,
+    "cricket": 123,
+    "bdix": 76
+  },
+  "files": {
+    "sports_all": "sports_all.m3u",
+    "football": "football.m3u",
+    "cricket": "cricket.m3u"
+  },
+  "top_channels_preview": [
+    {
+      "name": "Cricket Gold (1080p)",
+      "category": "Cricket",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Willow Sports (1080p)",
+      "category": "Cricket",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "CBS Sports Golazo Network (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "CCTV-Storm Football (1080p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ French (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ German (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ Hispanic America (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ Italy (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ Portuguese (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ Spain (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ United States (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "FIFA+ Women (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Futbol (1080p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Futbol TV (1080p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Golazo Network (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "MUTV (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Okko Futbol (576p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Radio TV Serie A",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Real Madrid TV (1080p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Real Madrid TV English",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Strongman Champions League (1080p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Strongman Champions League (720p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "TOP Barca (1080p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Win+ Futbol (1080p)",
+      "category": "Football",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "ACI Sport TV HD",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "ACI Sport TV SD (1080p)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Arena Sport 1",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Arena Sport 1 Premium (Serbia) (360p)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Arena Sport 1 Premium (Slovenia)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Arena Sport 2",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Arena Sport Premium M1",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Arena Sport Premium M2",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "Arena Sport Premium M3",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "AS3 Sport TV (1080p)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "beIN Sports 1",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "beIN Sports USA (576p)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "beIN SPORTS XTRA (1080p)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "beIN SPORTS XTRA en Espanol (1080p)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    },
+    {
+      "name": "CBS Sports HQ (720p)",
+      "category": "Multi-Sport",
+      "latency_ms": 100,
+      "source": "Local Test"
+    }
+  ]
+}

@@ -11,12 +11,13 @@ Automated, zero-dependency M3U playlist aggregator and live stream health checke
 
 Copy and paste any link below into **VLC**, **Televizo**, **TiviMate**, **OTT Navigator**, or **Kodi**:
 
-| Category | Permanent Auto-Updated M3U URL |
+| Category | Permanent Auto-Updated URL |
 | :--- | :--- |
-| **All Sports (Combined)** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/sports_all.m3u` |
-| **Football / Soccer** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/football.m3u` |
-| **Cricket Live** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/cricket.m3u` |
-| **JSON Status API** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/status.json` |
+| **Android App Matches API (JSON)** | `https://iqbal8846.github.io/sports-iptv/output/matches.json` |
+| **Android App Raw Backup (JSON)** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/matches.json` |
+| **All Sports (Combined M3U)** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/sports_all.m3u` |
+| **Football / Soccer (M3U)** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/football.m3u` |
+| **Cricket Live (M3U)** | `https://raw.githubusercontent.com/iqbal8846/sports-iptv/main/output/cricket.m3u` |
 | **Web Dashboard (Pages)** | `https://iqbal8846.github.io/sports-iptv/output/` |
 
 ---

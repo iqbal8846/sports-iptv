@@ -342,17 +342,21 @@ def match_streams_for_fixture(
             try_add_matching(bcast_kws, allowed, limit_add=2)
 
         # 3. League broadcast rights rules
+        matched_league = False
         for lg_kws, ch_kws in FOOTBALL_LEAGUE_CHANNEL_RULES:
             if any(k in league_lower for k in lg_kws):
-                try_add_matching(ch_kws, allowed, limit_add=4)
+                matched_league = True
+                try_add_matching(ch_kws, allowed, limit_add=3, prefer_bdix=False)
+                try_add_matching(ch_kws + ["t sports", "star sports", "bein"], allowed, limit_add=3, prefer_bdix=True)
                 break
 
-        # 4. Top reliable Multi-Sport & BDIX football broadcasters fallback
-        try_add_matching(
-            ["bein", "setanta", "eurosport", "t sports", "star sports", "espn", "cbs sports", "fox sports", "eleven sports", "arena sport"],
-            allowed,
-            limit_add=max_streams,
-        )
+        # Only fill extra servers if this match is genuinely televised (official TV tag, club TV, or top league)
+        if picked or matched_league or bcast_kws:
+            try_add_matching(
+                ["bein", "setanta", "eurosport", "t sports", "star sports", "espn", "cbs sports", "fox sports"],
+                allowed,
+                limit_add=max_streams,
+            )
 
     return picked[:max_streams]
 
@@ -430,14 +434,10 @@ def fetch_week_fixtures(all_streams: List[VerifiedStream], max_soccer_per_day: i
     Mon-Sun date bar has real Football & Cricket matches on every single day.
     """
     now_bd = datetime.datetime.now(BD_TZ)
-    # Anchor Monday of current week through +6 days (plus ensure at least tomorrow is covered)
-    days_since_monday = now_bd.weekday()  # Monday == 0 .. Sunday == 6
-    monday_bd = (now_bd - datetime.timedelta(days=days_since_monday)).replace(
-        hour=0, minute=0, second=0, microsecond=0
-    )
+    today_midnight_bd = now_bd.replace(hour=0, minute=0, second=0, microsecond=0)
 
-    # Cover current Mon..Sun week + next 4 days so weekend/Monday transitions never look empty
-    query_dates = [monday_bd + datetime.timedelta(days=i) for i in range(11)]
+    # Query from yesterday (for late-night LIVE games) through +7 days ahead; skip old finished days
+    query_dates = [today_midnight_bd + datetime.timedelta(days=i) for i in range(-1, 7)]
     seen_match_day_keys: Set[str] = set()
     raw_matches: List[Tuple[str, int, int, dict]] = []  # (date_bdt, status_rank, league_rank, match_json)
 
@@ -556,12 +556,8 @@ def fetch_week_fixtures(all_streams: List[VerifiedStream], max_soccer_per_day: i
                             sub_info = summary_txt or short_detail or "Live"
                             description = f"{short_score or 'LIVE'} | {sub_info}"
                     elif state == "post":
-                        meta_keywords = "FT"
-                        status_rank = 2
-                        if sport_label == "Football" and score1 != "" and score2 != "":
-                            description = f"{score1} : {score2} | Full Time"
-                        else:
-                            description = f"FT | {summary_txt or 'Match Ended'}"
+                        # Skip finished matches that no longer have an active live stream
+                        continue
                     else:
                         meta_keywords = "UPCOMING"
                         status_rank = 1
@@ -569,29 +565,33 @@ def fetch_week_fixtures(all_streams: List[VerifiedStream], max_soccer_per_day: i
                         description = venue if venue else f"{league_name}"
 
                     broadcasters = extract_broadcasters(ev)
+                    matched_streams = match_streams_for_fixture(
+                        sport=sport_label,
+                        league_name=league_name,
+                        team1=team1,
+                        team2=team2,
+                        official_broadcasters=broadcasters,
+                        all_streams=all_streams,
+                        max_streams=6,
+                    )
+
+                    # Strictly exclude matches that have 0 available streaming links
+                    if not matched_streams:
+                        continue
+
                     stream_ads = []
-                    if meta_keywords != "FT":
-                        matched_streams = match_streams_for_fixture(
-                            sport=sport_label,
-                            league_name=league_name,
-                            team1=team1,
-                            team2=team2,
-                            official_broadcasters=broadcasters,
-                            all_streams=all_streams,
-                            max_streams=6,
-                        )
-                        for st in matched_streams:
-                            s_entry = {
-                                "title": st.clean_display_name,
-                                "quality": st.quality_label,
-                                "type": st.stream_type,
-                                "url": st.url,
-                            }
-                            if st.user_agent:
-                                s_entry["user_agent"] = st.user_agent
-                            if st.referer:
-                                s_entry["referer"] = st.referer
-                            stream_ads.append(s_entry)
+                    for st in matched_streams:
+                        s_entry = {
+                            "title": st.clean_display_name,
+                            "quality": st.quality_label,
+                            "type": st.stream_type,
+                            "url": st.url,
+                        }
+                        if st.user_agent:
+                            s_entry["user_agent"] = st.user_agent
+                        if st.referer:
+                            s_entry["referer"] = st.referer
+                        stream_ads.append(s_entry)
 
                     league_rank = compute_league_rank(sport_label, league_name, is_international=is_intl)
 

@@ -11,7 +11,7 @@
     "time": "12:00 PM",
     "start_timestamp_ms": 1794549600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "289/6 | Zimbabwe won toss & batted",
+    "description": "159/6 | Afghanistan trail by 180 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -65,7 +65,7 @@
     "time": "02:00 PM",
     "start_timestamp_ms": 1794556800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "127/3 | Zimbabwe A trail by 424 runs",
+    "description": "322/7 | Zimbabwe A trail by 229 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -119,169 +119,7 @@
     "time": "12:00 PM",
     "start_timestamp_ms": 1794636000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "289/6 | Zimbabwe won toss & batted",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555691_20261114",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Dhaka Division",
-    "team2": "Chattogram Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
-    "date": "2026-11-14",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794627000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555690_20261114",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Mymensingh Division",
-    "team2": "Rajshahi Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
-    "date": "2026-11-14",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794627000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555692_20261114",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Rangpur Division",
-    "team2": "Khulna Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
-    "date": "2026-11-14",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794627000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "159/6 | Afghanistan trail by 180 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -335,7 +173,7 @@
     "time": "09:30 AM",
     "start_timestamp_ms": 1794627000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "203/6 | Barishal DIV won toss & batted",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -378,72 +216,18 @@
     ]
   },
   {
-    "id": "crick_1558444_20261114",
+    "id": "crick_1555690_20261114",
     "category": "Cricket",
-    "event_name": "Asia Youth/Under-19s Cup",
-    "team1": "India Under-19s",
-    "team2": "Pakistan Under-19s",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1803.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2964.png",
+    "event_name": "National Cricket League",
+    "team1": "Mymensingh Division",
+    "team2": "Rajshahi Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
     "date": "2026-11-14",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794632400000,
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794627000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "238/2 | PAK Under-19 won toss & batted",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "Star Sports 2 Telugu HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      },
-      {
-        "title": "Willow Extra (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1546672_20261114",
-    "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Gujarat",
-    "team2": "Odisha",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1729.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1988.png",
-    "date": "2026-11-14",
-    "time": "11:30 AM",
-    "start_timestamp_ms": 1794634200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 11:00 local time",
+    "description": "309/7 | Rajshahi DIV won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -486,18 +270,18 @@
     ]
   },
   {
-    "id": "crick_1546661_20261114",
+    "id": "crick_1555691_20261114",
     "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Mizoram",
-    "team2": "Jharkhand",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1156780.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1156778.png",
+    "event_name": "National Cricket League",
+    "team1": "Dhaka Division",
+    "team2": "Chattogram Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
     "date": "2026-11-14",
-    "time": "11:30 AM",
-    "start_timestamp_ms": 1794634200000,
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794627000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0/1 | Jharkhand require 77 runs",
+    "description": "24/0 | Dhaka DIV trail by 264 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -540,234 +324,18 @@
     ]
   },
   {
-    "id": "crick_1546663_20261114",
+    "id": "crick_1555692_20261114",
     "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Saurashtra",
-    "team2": "Bihar",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2070.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1585.png",
+    "event_name": "National Cricket League",
+    "team1": "Rangpur Division",
+    "team2": "Khulna Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
     "date": "2026-11-14",
-    "time": "11:30 AM",
-    "start_timestamp_ms": 1794634200000,
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794627000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "137/9 | Saurashtra require 138 runs",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1546668_20261114",
-    "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Tripura",
-    "team2": "Andhra",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2149.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1541.png",
-    "date": "2026-11-14",
-    "time": "11:30 AM",
-    "start_timestamp_ms": 1794634200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "117/8 | Tripura won toss & fielded",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1560730_20261114",
-    "category": "Cricket",
-    "event_name": "Victoria Women T20 Series",
-    "team1": "Namibia Women",
-    "team2": "United States of America Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/545928.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/405379.png",
-    "date": "2026-11-14",
-    "time": "12:30 PM",
-    "start_timestamp_ms": 1794637800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1546673_20261114",
-    "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Vidarbha",
-    "team2": "Goa",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2179.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1717.png",
-    "date": "2026-11-14",
-    "time": "01:00 PM",
-    "start_timestamp_ms": 1794639600000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 12:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1546677_20261114",
-    "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Services",
-    "team2": "Sikkim",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2119.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2085.png",
-    "date": "2026-11-14",
-    "time": "01:30 PM",
-    "start_timestamp_ms": 1794641400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "27/1 | Sikkim won toss & batted",
+    "description": "320/7 | Khulna DIV won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -821,7 +389,7 @@
     "time": "02:00 PM",
     "start_timestamp_ms": 1794643200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "127/3 | Zimbabwe A trail by 424 runs",
+    "description": "322/7 | Zimbabwe A trail by 229 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -864,19 +432,19 @@
     ]
   },
   {
-    "id": "crick_1543965_20261114",
+    "id": "crick_1558607_20261114",
     "category": "Cricket",
-    "event_name": "Women's Big Bash League",
-    "team1": "Perth Scorchers Women",
-    "team2": "Adelaide Strikers Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896405.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/896431.png",
+    "event_name": "Nepal Premier League",
+    "team1": "Biratnagar Kings (NPL)",
+    "team2": "Lumbini Lions (NPL)",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1462631.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1462638.png",
     "date": "2026-11-14",
-    "time": "02:10 PM",
-    "start_timestamp_ms": 1794643800000,
+    "time": "04:45 PM",
+    "start_timestamp_ms": 1794653100000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "W.A.C.A. Ground, Perth",
-    "meta_keywords": "UPCOMING",
+    "description": "135/5 | Lumbini require 32 runs",
+    "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
       {
@@ -892,45 +460,153 @@
         "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
       },
       {
-        "title": "Fox Sports 1",
-        "quality": "HD",
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "Cricket Gold (BDIX)",
+        "title": "A sports (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044"
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
       },
       {
-        "title": "Willow Extra (BDIX)",
+        "title": "Gazi TV (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
       },
       {
-        "title": "Willow Sports (BDIX)",
+        "title": "PTV Sports (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
       }
     ]
   },
   {
-    "id": "crick_1555481_20261114",
+    "id": "crick_1546674_20261114",
+    "category": "Cricket",
+    "event_name": "Syed Mushtaq Ali Trophy",
+    "team1": "Uttarakhand",
+    "team2": "Chhattisgarh",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1156784.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/427424.png",
+    "date": "2026-11-14",
+    "time": "05:00 PM",
+    "start_timestamp_ms": 1794654000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "LIVE | Starts at 16:30 local time",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1560731_20261114",
+    "category": "Cricket",
+    "event_name": "Victoria Women T20 Series",
+    "team1": "Uganda Women",
+    "team2": "Rwanda Women",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3667.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/383829.png",
+    "date": "2026-11-14",
+    "time": "05:00 PM",
+    "start_timestamp_ms": 1794654000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "LIVE | Starts at 14:00 local time",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555482_20261114",
     "category": "Cricket",
     "event_name": "South Africa Domestic T20/Pro20",
-    "team1": "Warriors",
-    "team2": "Boland",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3353.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3161.png",
+    "team1": "Lions",
+    "team2": "Western Province",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3249.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3357.png",
     "date": "2026-11-14",
-    "time": "01:30 PM",
-    "start_timestamp_ms": 1794641400000,
+    "time": "06:00 PM",
+    "start_timestamp_ms": 1794657600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Newlands, Cape Town",
-    "meta_keywords": "UPCOMING",
+    "description": "78/3 | W Province require 117 runs",
+    "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
       {
@@ -972,127 +648,19 @@
     ]
   },
   {
-    "id": "crick_1546669_20261114",
+    "id": "crick_1561266_20261114",
     "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Himachal Pradesh",
-    "team2": "Assam",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1752.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1550.png",
+    "event_name": "Abu Dhabi T10",
+    "team1": "Arabian Aces",
+    "team2": "Emirates Eagles",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1561247.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561246.png",
     "date": "2026-11-14",
-    "time": "02:00 PM",
-    "start_timestamp_ms": 1794643200000,
+    "time": "07:45 PM",
+    "start_timestamp_ms": 1794663900000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "I.S. Bindra Punjab Cricket Association Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1546664_20261114",
-    "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Railways",
-    "team2": "Tamil Nadu",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1823.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2133.png",
-    "date": "2026-11-14",
-    "time": "02:00 PM",
-    "start_timestamp_ms": 1794643200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Daly College Ground, Indore",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1546662_20261114",
-    "category": "Cricket",
-    "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Rajasthan",
-    "team2": "Uttar Pradesh",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2037.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2161.png",
-    "date": "2026-11-14",
-    "time": "02:00 PM",
-    "start_timestamp_ms": 1794643200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Sharad Pawar Cricket Academy BKC, Mumbai",
-    "meta_keywords": "UPCOMING",
+    "description": "131/4 | Eagles won toss & fielded",
+    "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
       {
@@ -1145,8 +713,8 @@
     "time": "08:00 PM",
     "start_timestamp_ms": 1794664800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Stadiumi Fadil Vokrri",
-    "meta_keywords": "UPCOMING",
+    "description": "0 : 0 | 42'",
+    "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
       {
@@ -1184,6 +752,170 @@
         "quality": "BDIX · HD",
         "type": "m3u8",
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401902865_20261114",
+    "category": "Football",
+    "event_name": "English Women's Super League",
+    "team1": "Chelsea",
+    "team2": "Manchester City",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/19970.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png",
+    "date": "2026-11-14",
+    "time": "07:30 PM",
+    "start_timestamp_ms": 1794663000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "1 : 0 | 51'",
+    "meta_keywords": "LIVE",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      },
+      {
+        "title": "CBS Sports HQ",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "beIN SPORTS XTRA en Espanol",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+      },
+      {
+        "title": "ESPN 6 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://45.228.234.30:16000/play/a046/index.m3u8"
+      },
+      {
+        "title": "ESPN 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://200.10.30.241:8000/play/a01r/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561267_20261114",
+    "category": "Cricket",
+    "event_name": "Abu Dhabi T10",
+    "team1": "UAE Bulls",
+    "team2": "Yas Lions",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1511694.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561245.png",
+    "date": "2026-11-14",
+    "time": "10:00 PM",
+    "start_timestamp_ms": 1794672000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Zayed Cricket Stadium, Abu Dhabi",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555483_20261114",
+    "category": "Cricket",
+    "event_name": "South Africa Domestic T20/Pro20",
+    "team1": "Warriors",
+    "team2": "TBA",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3353.png",
+    "logo2": "",
+    "date": "2026-11-14",
+    "time": "10:30 PM",
+    "start_timestamp_ms": 1794673800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Newlands, Cape Town",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
       }
     ]
   },
@@ -1298,276 +1030,6 @@
     ]
   },
   {
-    "id": "foot_401933864_20261114",
-    "category": "Football",
-    "event_name": "International Friendly",
-    "team1": "Tahiti",
-    "team2": "Cook Islands",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/tah.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/cok.png",
-    "date": "2026-11-14",
-    "time": "11:30 AM",
-    "start_timestamp_ms": 1794634200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Stade Louis Ganivet",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401930879_20261114",
-    "category": "Football",
-    "event_name": "International Friendly",
-    "team1": "Bahrain",
-    "team2": "Yemen",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/bhr.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/yem.png",
-    "date": "2026-11-14",
-    "time": "12:00 PM",
-    "start_timestamp_ms": 1794636000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Tianhe Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401916337_20261114",
-    "category": "Football",
-    "event_name": "International Friendly",
-    "team1": "Japan",
-    "team2": "Brazil",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-    "date": "2026-11-14",
-    "time": "04:15 PM",
-    "start_timestamp_ms": 1794651300000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Singapore National Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401930236_20261114",
-    "category": "Football",
-    "event_name": "International Friendly",
-    "team1": "China",
-    "team2": "Malaysia",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/mas.png",
-    "date": "2026-11-14",
-    "time": "06:00 PM",
-    "start_timestamp_ms": 1794657600000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Zhaoqing New District Sports Cen",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401930243_20261114",
-    "category": "Football",
-    "event_name": "International Friendly",
-    "team1": "Chinese Taipei",
-    "team2": "Kyrgyz Republic",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/14561.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/kgz.png",
-    "date": "2026-11-14",
-    "time": "06:00 PM",
-    "start_timestamp_ms": 1794657600000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Thien Truong Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "id": "foot_401932237_20261114",
     "category": "Football",
     "event_name": "International Friendly",
@@ -1622,29 +1084,23 @@
     ]
   },
   {
-    "id": "foot_401902863_20261114",
+    "id": "foot_401902861_20261114",
     "category": "Football",
     "event_name": "English Women's Super League",
-    "team1": "Manchester United",
-    "team2": "Crystal Palace",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20061.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/21037.png",
+    "team1": "Tottenham Hotspur",
+    "team2": "Everton",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20062.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/19972.png",
     "date": "2026-11-14",
-    "time": "06:45 PM",
-    "start_timestamp_ms": 1794660300000,
+    "time": "09:00 PM",
+    "start_timestamp_ms": 1794668400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Leigh Sports Village",
+    "description": "Gaughan Group Stadium",
     "meta_keywords": "UPCOMING",
     "official_tv": [
       "Paramount+"
     ],
     "stream_ads": [
-      {
-        "title": "MUTV",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
-      },
       {
         "title": "CBS Sports Golazo Network",
         "quality": "HD",
@@ -1674,6 +1130,12 @@
         "quality": "HD",
         "type": "m3u8",
         "url": "http://45.228.234.30:16000/play/a046/index.m3u8"
+      },
+      {
+        "title": "ESPN 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://200.10.30.241:8000/play/a01r/index.m3u8"
       }
     ]
   },
@@ -1735,6 +1197,62 @@
     ]
   },
   {
+    "id": "foot_401902862_20261114",
+    "category": "Football",
+    "event_name": "English Women's Super League",
+    "team1": "Brighton & Hove Albion",
+    "team2": "Liverpool",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/19976.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/19971.png",
+    "date": "2026-11-14",
+    "time": "11:15 PM",
+    "start_timestamp_ms": 1794676500000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "American Express Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      },
+      {
+        "title": "CBS Sports HQ",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "beIN SPORTS XTRA en Espanol",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+      },
+      {
+        "title": "ESPN 6 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://45.228.234.30:16000/play/a046/index.m3u8"
+      },
+      {
+        "title": "ESPN 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://200.10.30.241:8000/play/a01r/index.m3u8"
+      }
+    ]
+  },
+  {
     "id": "crick_1555124_20261115",
     "category": "Cricket",
     "event_name": "Zimbabwe tour of United Arab Emirates 2026/27",
@@ -1746,169 +1264,7 @@
     "time": "12:00 PM",
     "start_timestamp_ms": 1794722400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "289/6 | Zimbabwe won toss & batted",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555691_20261115",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Dhaka Division",
-    "team2": "Chattogram Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
-    "date": "2026-11-15",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794713400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555690_20261115",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Mymensingh Division",
-    "team2": "Rajshahi Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
-    "date": "2026-11-15",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794713400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555692_20261115",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Rangpur Division",
-    "team2": "Khulna Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
-    "date": "2026-11-15",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794713400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "159/6 | Afghanistan trail by 180 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -1962,7 +1318,169 @@
     "time": "09:30 AM",
     "start_timestamp_ms": 1794713400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "203/6 | Barishal DIV won toss & batted",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555690_20261115",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Mymensingh Division",
+    "team2": "Rajshahi Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
+    "date": "2026-11-15",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794713400000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "309/7 | Rajshahi DIV won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555691_20261115",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Dhaka Division",
+    "team2": "Chattogram Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
+    "date": "2026-11-15",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794713400000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "24/0 | Dhaka DIV trail by 264 runs",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555692_20261115",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Rangpur Division",
+    "team2": "Khulna Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
+    "date": "2026-11-15",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794713400000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "320/7 | Khulna DIV won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -2016,7 +1534,7 @@
     "time": "02:00 PM",
     "start_timestamp_ms": 1794729600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "127/3 | Zimbabwe A trail by 424 runs",
+    "description": "322/7 | Zimbabwe A trail by 229 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -5055,169 +4573,7 @@
     "time": "12:00 PM",
     "start_timestamp_ms": 1794808800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "289/6 | Zimbabwe won toss & batted",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555691_20261116",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Dhaka Division",
-    "team2": "Chattogram Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
-    "date": "2026-11-16",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794799800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555690_20261116",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Mymensingh Division",
-    "team2": "Rajshahi Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
-    "date": "2026-11-16",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794799800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555692_20261116",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Rangpur Division",
-    "team2": "Khulna Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
-    "date": "2026-11-16",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794799800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "159/6 | Afghanistan trail by 180 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -5271,7 +4627,169 @@
     "time": "09:30 AM",
     "start_timestamp_ms": 1794799800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "203/6 | Barishal DIV won toss & batted",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555690_20261116",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Mymensingh Division",
+    "team2": "Rajshahi Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
+    "date": "2026-11-16",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794799800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "309/7 | Rajshahi DIV won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555691_20261116",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Dhaka Division",
+    "team2": "Chattogram Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
+    "date": "2026-11-16",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794799800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "24/0 | Dhaka DIV trail by 264 runs",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555692_20261116",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Rangpur Division",
+    "team2": "Khulna Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
+    "date": "2026-11-16",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794799800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "320/7 | Khulna DIV won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -6845,169 +6363,7 @@
     "time": "12:00 PM",
     "start_timestamp_ms": 1794895200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "289/6 | Zimbabwe won toss & batted",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555691_20261117",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Dhaka Division",
-    "team2": "Chattogram Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
-    "date": "2026-11-17",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794886200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555690_20261117",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Mymensingh Division",
-    "team2": "Rajshahi Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
-    "date": "2026-11-17",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794886200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555692_20261117",
-    "category": "Cricket",
-    "event_name": "National Cricket League",
-    "team1": "Rangpur Division",
-    "team2": "Khulna Division",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
-    "date": "2026-11-17",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794886200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "159/6 | Afghanistan trail by 180 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -7061,7 +6417,169 @@
     "time": "09:30 AM",
     "start_timestamp_ms": 1794886200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 09:30 local time",
+    "description": "203/6 | Barishal DIV won toss & batted",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555690_20261117",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Mymensingh Division",
+    "team2": "Rajshahi Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/683.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/711.png",
+    "date": "2026-11-17",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794886200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "309/7 | Rajshahi DIV won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555691_20261117",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Dhaka Division",
+    "team2": "Chattogram Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/682.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/679.png",
+    "date": "2026-11-17",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794886200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "24/0 | Dhaka DIV trail by 264 runs",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555692_20261117",
+    "category": "Cricket",
+    "event_name": "National Cricket League",
+    "team1": "Rangpur Division",
+    "team2": "Khulna Division",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/536705.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/700.png",
+    "date": "2026-11-17",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794886200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "320/7 | Khulna DIV won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [

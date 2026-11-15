@@ -432,222 +432,6 @@
     ]
   },
   {
-    "id": "crick_1561022_20261115",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Islamabad Region",
-    "team2": "Karachi Region Blues",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/382591.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2788.png",
-    "date": "2026-11-15",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794718800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "334/7 | Islamabad won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561023_20261115",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Sialkot Region Blues",
-    "team2": "Federally Administered Tribal Areas",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1561012.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3001.png",
-    "date": "2026-11-15",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794718800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "44/5 | FATA won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561024_20261115",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Multan Region",
-    "team2": "Faisalabad Region",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2905.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2706.png",
-    "date": "2026-11-15",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794718800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "335/7 | Faisalabad won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561025_20261115",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Lahore Region Whites",
-    "team2": "Peshawar Region Blues",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2858.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561013.png",
-    "date": "2026-11-15",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794718800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "116 & 0/0 | PR Blues won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
     "id": "crick_1561224_20261115",
     "category": "Cricket",
     "event_name": "Quaid-e-Azam Trophy Silver League 2026/27",
@@ -972,18 +756,18 @@
     ]
   },
   {
-    "id": "crick_1554130_20261115",
+    "id": "crick_1561022_20261115",
     "category": "Cricket",
-    "event_name": "CSA Women's Division Two T20",
-    "team1": "Free State Women",
-    "team2": "Border Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3226.png",
-    "logo2": "",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Islamabad Region",
+    "team2": "Karachi Region Blues",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/382591.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2788.png",
     "date": "2026-11-15",
-    "time": "02:00 PM",
-    "start_timestamp_ms": 1794729600000,
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794718800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 10:00 local time",
+    "description": "334/7 | Islamabad won toss",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -1026,18 +810,18 @@
     ]
   },
   {
-    "id": "crick_1554131_20261115",
+    "id": "crick_1561023_20261115",
     "category": "Cricket",
-    "event_name": "CSA Women's Division Two T20",
-    "team1": "North West Women",
-    "team2": "KwaZulu-Natal Inland Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3281.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/315817.png",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Sialkot Region Blues",
+    "team2": "Federally Administered Tribal Areas",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1561012.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3001.png",
     "date": "2026-11-15",
-    "time": "02:00 PM",
-    "start_timestamp_ms": 1794729600000,
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794718800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 10:00 local time",
+    "description": "44/5 | FATA won toss",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -1076,6 +860,168 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561024_20261115",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Multan Region",
+    "team2": "Faisalabad Region",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2905.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2706.png",
+    "date": "2026-11-15",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794718800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "335/7 | Faisalabad won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561025_20261115",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Lahore Region Whites",
+    "team2": "Peshawar Region Blues",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2858.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561013.png",
+    "date": "2026-11-15",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794718800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "116 & 0/0 | PR Blues won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1544855_20261116",
+    "category": "Cricket",
+    "event_name": "Australian Domestic One-Day Competition",
+    "team1": "New South Wales",
+    "team2": "South Australia",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/520.png",
+    "date": "2026-11-16",
+    "time": "05:00 AM",
+    "start_timestamp_ms": 1794783600000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "LIVE | Starts at 10:00 local time",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Fox Sports 1",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+      },
+      {
+        "title": "Cricket Gold (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044"
+      },
+      {
+        "title": "Willow Extra (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+      },
+      {
+        "title": "Willow Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       }
     ]
   },
@@ -1362,222 +1308,6 @@
     "start_timestamp_ms": 1794799800000,
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "276/7 | Khulna DIV trail by 62 runs",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561022_20261116",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Islamabad Region",
-    "team2": "Karachi Region Blues",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/382591.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2788.png",
-    "date": "2026-11-16",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794805200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "334/7 | Islamabad won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561023_20261116",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Sialkot Region Blues",
-    "team2": "Federally Administered Tribal Areas",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1561012.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3001.png",
-    "date": "2026-11-16",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794805200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "44/5 | FATA won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561024_20261116",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Multan Region",
-    "team2": "Faisalabad Region",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2905.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2706.png",
-    "date": "2026-11-16",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794805200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "335/7 | Faisalabad won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561025_20261116",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Lahore Region Whites",
-    "team2": "Peshawar Region Blues",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2858.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561013.png",
-    "date": "2026-11-16",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794805200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "116 & 0/0 | PR Blues won toss",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -1944,19 +1674,19 @@
     ]
   },
   {
-    "id": "crick_1544855_20261116",
+    "id": "crick_1561022_20261116",
     "category": "Cricket",
-    "event_name": "Australian Domestic One-Day Competition",
-    "team1": "New South Wales",
-    "team2": "South Australia",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/520.png",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Islamabad Region",
+    "team2": "Karachi Region Blues",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/382591.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2788.png",
     "date": "2026-11-16",
-    "time": "05:00 AM",
-    "start_timestamp_ms": 1794783600000,
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794805200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Cricket Central, Sydney",
-    "meta_keywords": "UPCOMING",
+    "description": "334/7 | Islamabad won toss",
+    "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
       {
@@ -1972,28 +1702,246 @@
         "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
       },
       {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561023_20261116",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Sialkot Region Blues",
+    "team2": "Federally Administered Tribal Areas",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1561012.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3001.png",
+    "date": "2026-11-16",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794805200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "44/5 | FATA won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561024_20261116",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Multan Region",
+    "team2": "Faisalabad Region",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2905.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2706.png",
+    "date": "2026-11-16",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794805200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "335/7 | Faisalabad won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561025_20261116",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Lahore Region Whites",
+    "team2": "Peshawar Region Blues",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2858.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561013.png",
+    "date": "2026-11-16",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794805200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "116 & 0/0 | PR Blues won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "foot_401929709_20261116",
+    "category": "Football",
+    "event_name": "Concacaf Nations League",
+    "team1": "Panama",
+    "team2": "Curaçao",
+    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+    "date": "2026-11-16",
+    "time": "05:00 AM",
+    "start_timestamp_ms": 1794783600000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "0 : 0 | 40'",
+    "meta_keywords": "LIVE",
+    "official_tv": [
+      "FS2"
+    ],
+    "stream_ads": [
+      {
         "title": "Fox Sports 1",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
       },
       {
-        "title": "Cricket Gold (BDIX)",
-        "quality": "BDIX · Live",
+        "title": "Fox Sports News",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044"
+        "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
       },
       {
-        "title": "Willow Extra (BDIX)",
-        "quality": "BDIX · Live",
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
+        "title": "beIN Sports XTRA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+        "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8"
+      },
+      {
+        "title": "beIN SPORTS XTRA en Espanol",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+      },
+      {
+        "title": "Eurosport HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
       }
     ]
   },
@@ -2156,280 +2104,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401861176_20261116",
-    "category": "Football",
-    "event_name": "UEFA Nations League",
-    "team1": "Belgium",
-    "team2": "Italy",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
-    "date": "2026-11-16",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1794771900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "King Baudouin Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports XTRA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401861178_20261116",
-    "category": "Football",
-    "event_name": "UEFA Nations League",
-    "team1": "Croatia",
-    "team2": "Czechia",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
-    "date": "2026-11-16",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1794771900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Opus Arena",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports XTRA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401861177_20261116",
-    "category": "Football",
-    "event_name": "UEFA Nations League",
-    "team1": "France",
-    "team2": "Türkiye",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
-    "date": "2026-11-16",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1794771900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Stade Atlantique",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "FS2"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports News",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports XTRA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401861175_20261116",
-    "category": "Football",
-    "event_name": "UEFA Nations League",
-    "team1": "Spain",
-    "team2": "England",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-    "date": "2026-11-16",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1794771900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Riyadh Air Metropolitano",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports XTRA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401929709_20261116",
-    "category": "Football",
-    "event_name": "Concacaf Nations League",
-    "team1": "Panama",
-    "team2": "Curaçao",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
-    "date": "2026-11-16",
-    "time": "05:00 AM",
-    "start_timestamp_ms": 1794783600000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Estadio Rommel Fernández Gutiérr",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "FS2"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports News",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports XTRA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
       }
     ]
   },
@@ -2866,63 +2540,6 @@
         "quality": "BDIX · HD",
         "type": "m3u8",
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401933740_20261116",
-    "category": "Football",
-    "event_name": "NWSL",
-    "team1": "Gotham FC",
-    "team2": "Kansas City Current",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
-    "date": "2026-11-16",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1794772800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Icahn Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "ABC",
-      "ESPN Deportes"
-    ],
-    "stream_ads": [
-      {
-        "title": "ESPN 4 (Brazil)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://181.78.49.113:9999/play/a07e/index.m3u8"
-      },
-      {
-        "title": "ESPN 6 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://45.228.234.30:16000/play/a046/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports XTRA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "Bein Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330"
       }
     ]
   },
@@ -5907,222 +5524,6 @@
     ]
   },
   {
-    "id": "crick_1561022_20261118",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Islamabad Region",
-    "team2": "Karachi Region Blues",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/382591.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2788.png",
-    "date": "2026-11-18",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794978000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "334/7 | Islamabad won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561023_20261118",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Sialkot Region Blues",
-    "team2": "Federally Administered Tribal Areas",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1561012.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3001.png",
-    "date": "2026-11-18",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794978000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "44/5 | FATA won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561024_20261118",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Multan Region",
-    "team2": "Faisalabad Region",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2905.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2706.png",
-    "date": "2026-11-18",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794978000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "335/7 | Faisalabad won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1561025_20261118",
-    "category": "Cricket",
-    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
-    "team1": "Lahore Region Whites",
-    "team2": "Peshawar Region Blues",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2858.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561013.png",
-    "date": "2026-11-18",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794978000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "116 & 0/0 | PR Blues won toss",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
     "id": "crick_1561224_20261118",
     "category": "Cricket",
     "event_name": "Quaid-e-Azam Trophy Silver League 2026/27",
@@ -6405,6 +5806,222 @@
     "start_timestamp_ms": 1794978000000,
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "319/9 | PR Whites won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561022_20261118",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Islamabad Region",
+    "team2": "Karachi Region Blues",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/382591.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2788.png",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794978000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "334/7 | Islamabad won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561023_20261118",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Sialkot Region Blues",
+    "team2": "Federally Administered Tribal Areas",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1561012.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3001.png",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794978000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "44/5 | FATA won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561024_20261118",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Multan Region",
+    "team2": "Faisalabad Region",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2905.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2706.png",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794978000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "335/7 | Faisalabad won toss",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1561025_20261118",
+    "category": "Cricket",
+    "event_name": "Quaid-e-Azam Trophy Gold 2026/27",
+    "team1": "Lahore Region Whites",
+    "team2": "Peshawar Region Blues",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2858.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1561013.png",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794978000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "116 & 0/0 | PR Blues won toss",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -10689,9 +10306,9 @@
     "id": "foot_401930226_20261119",
     "category": "Football",
     "event_name": "Copa Bolivia",
-    "team1": "TBD Home",
+    "team1": "Always Ready",
     "team2": "TBD Away",
-    "logo1": "",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/19425.png",
     "logo2": "",
     "date": "2026-11-19",
     "time": "02:00 AM",

@@ -324,18 +324,18 @@
     ]
   },
   {
-    "id": "crick_1558815_20261115",
+    "id": "crick_1539441_20261115",
     "category": "Cricket",
-    "event_name": "England Lions tour of West Indies 2026/27",
-    "team1": "West Indies A",
-    "team2": "England Lions",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3800.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/952.png",
+    "event_name": "India tour of New Zealand 2026/27",
+    "team1": "New Zealand",
+    "team2": "India",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
     "date": "2026-11-15",
-    "time": "12:00 AM",
-    "start_timestamp_ms": 1794679200000,
+    "time": "08:00 AM",
+    "start_timestamp_ms": 1794708000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LIVE | Starts at 14:00 local time",
+    "description": "153/5 | New Zealand won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -358,22 +358,76 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "A sports (BDIX)",
+        "title": "Willow Extra (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
       },
       {
-        "title": "Gazi TV (BDIX)",
+        "title": "Willow Sports (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       },
       {
-        "title": "PTV Sports (BDIX)",
+        "title": "Willow TV (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7058af1b60fb3bcfd7f687bf5b7866aa"
+      }
+    ]
+  },
+  {
+    "id": "crick_1528704_20261115",
+    "category": "Cricket",
+    "event_name": "England tour of Australia 2026/27",
+    "team1": "Australia",
+    "team2": "England",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1.png",
+    "date": "2026-11-15",
+    "time": "09:30 AM",
+    "start_timestamp_ms": 1794713400000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "65/1 | Australia won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Fox Sports 1",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+      },
+      {
+        "title": "Cricket Gold (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044"
+      },
+      {
+        "title": "Willow Extra (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+      },
+      {
+        "title": "Willow Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       }
     ]
   },
@@ -552,6 +606,114 @@
     "start_timestamp_ms": 1794691800000,
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "LIVE | Starts at 10:30 local time",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Cricket Gold",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555415_20261115",
+    "category": "Cricket",
+    "event_name": "Hong Kong Premier League One-Day Tournament",
+    "team1": "Diasqua Little Sai Wan Cricket Club",
+    "team2": "Pakistan Association of Hong Kong",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/918645.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/918647.png",
+    "date": "2026-11-15",
+    "time": "07:00 AM",
+    "start_timestamp_ms": 1794704400000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "260/4 | Pakistan HKG won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 2 Telugu HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      },
+      {
+        "title": "Willow Extra (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1555416_20261115",
+    "category": "Cricket",
+    "event_name": "Hong Kong Premier League One-Day Tournament",
+    "team1": "Hong Kong Cricket Club",
+    "team2": "United Services Recreation Club",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1512.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1197532.png",
+    "date": "2026-11-15",
+    "time": "07:30 AM",
+    "start_timestamp_ms": 1794706200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "225/5 | Hong Kong CC won toss & batted",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -864,218 +1026,56 @@
     ]
   },
   {
-    "id": "crick_1543966_20261115",
-    "category": "Cricket",
-    "event_name": "Women's Big Bash League",
-    "team1": "Sydney Sixers Women",
-    "team2": "Melbourne Renegades Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896403.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/896407.png",
-    "date": "2026-11-15",
-    "time": "06:00 AM",
-    "start_timestamp_ms": 1794700800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "North Sydney Oval, Sydney",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Cricket Gold (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044"
-      },
-      {
-        "title": "Willow Extra (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1539441_20261115",
-    "category": "Cricket",
-    "event_name": "India tour of New Zealand 2026/27",
+    "id": "foot_401906463_20261115",
+    "category": "Football",
+    "event_name": "International Friendly",
     "team1": "New Zealand",
     "team2": "India",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/ind.png",
     "date": "2026-11-15",
-    "time": "08:00 AM",
-    "start_timestamp_ms": 1794708000000,
+    "time": "09:00 AM",
+    "start_timestamp_ms": 1794711600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Bay Oval, Mount Maunganui",
-    "meta_keywords": "UPCOMING",
+    "description": "3 : 0 | 57'",
+    "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "Willow Extra (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      },
-      {
-        "title": "Willow TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7058af1b60fb3bcfd7f687bf5b7866aa"
-      }
-    ]
-  },
-  {
-    "id": "crick_1528704_20261115",
-    "category": "Cricket",
-    "event_name": "England tour of Australia 2026/27",
-    "team1": "Australia",
-    "team2": "England",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1.png",
-    "date": "2026-11-15",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794713400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Adelaide Oval",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Cricket Gold",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "title": "Fox Sports 1",
+        "title": "CBS Sports Golazo Network",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Cricket Gold (BDIX)",
-        "quality": "BDIX · Live",
+        "title": "beIN SPORTS XTRA en Espanol",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044"
+        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
       },
       {
-        "title": "Willow Extra (BDIX)",
-        "quality": "BDIX · Live",
+        "title": "beIN SPORTS XTRA",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
       },
       {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
+        "title": "Eurosport HD (BDIX)",
+        "quality": "BDIX · HD",
         "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1557552_20261115",
-    "category": "Cricket",
-    "event_name": "ICC Women's Emerging Nations Trophy",
-    "team1": "Pakistan Women",
-    "team2": "Netherlands Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2971.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2410.png",
-    "date": "2026-11-15",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1794718800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Seven Districts Sports Club, Ajman",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
       },
       {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
         "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
       },
       {
-        "title": "Star Sports 2 Telugu HD",
-        "quality": "HD",
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
         "type": "m3u8",
-        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      },
-      {
-        "title": "Willow Extra (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       }
     ]
   },
@@ -1130,6 +1130,60 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      }
+    ]
+  },
+  {
+    "id": "crick_1557552_20261115",
+    "category": "Cricket",
+    "event_name": "ICC Women's Emerging Nations Trophy",
+    "team1": "Pakistan Women",
+    "team2": "Netherlands Women",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2971.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/2410.png",
+    "date": "2026-11-15",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1794718800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Seven Districts Sports Club, Ajman",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 2 Telugu HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      },
+      {
+        "title": "A sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
+      },
+      {
+        "title": "PTV Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
+      },
+      {
+        "title": "Willow Extra (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
       }
     ]
   },
@@ -1400,168 +1454,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      }
-    ]
-  },
-  {
-    "id": "crick_1555415_20261115",
-    "category": "Cricket",
-    "event_name": "Hong Kong Premier League One-Day Tournament",
-    "team1": "Diasqua Little Sai Wan Cricket Club",
-    "team2": "Pakistan Association of Hong Kong",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/918645.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/918647.png",
-    "date": "2026-11-15",
-    "time": "07:00 AM",
-    "start_timestamp_ms": 1794704400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Mission Road Ground, Mong Kok, Hong Kong",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "Star Sports 2 Telugu HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      },
-      {
-        "title": "Willow Extra (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401929773_20261115",
-    "category": "Football",
-    "event_name": "Concacaf Nations League",
-    "team1": "St. Vincent and the Grenadines",
-    "team2": "Belize",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/vin.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/blz.png",
-    "date": "2026-11-15",
-    "time": "06:00 AM",
-    "start_timestamp_ms": 1794700800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Arnos Vale Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401929772_20261115",
-    "category": "Football",
-    "event_name": "Concacaf Nations League",
-    "team1": "Jamaica",
-    "team2": "Mexico",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/jam.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
-    "date": "2026-11-15",
-    "time": "07:00 AM",
-    "start_timestamp_ms": 1794704400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Independence Park",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       }
     ]
   },
@@ -2972,60 +2864,6 @@
     ]
   },
   {
-    "id": "foot_401906463_20261115",
-    "category": "Football",
-    "event_name": "International Friendly",
-    "team1": "New Zealand",
-    "team2": "India",
-    "logo1": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/countries/500/ind.png",
-    "date": "2026-11-15",
-    "time": "09:10 AM",
-    "start_timestamp_ms": 1794712200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "One New Zealand Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      },
-      {
-        "title": "beIN SPORTS XTRA",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-      },
-      {
-        "title": "Eurosport HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "id": "foot_401933837_20261115",
     "category": "Football",
     "event_name": "International Friendly",
@@ -4120,8 +3958,8 @@
     "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1156781.png",
     "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1943.png",
     "date": "2026-11-16",
-    "time": "09:00 AM",
-    "start_timestamp_ms": 1794798000000,
+    "time": "08:30 AM",
+    "start_timestamp_ms": 1794796200000,
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Sovima Cricket Ground, Sovima",
     "meta_keywords": "UPCOMING",
@@ -4174,8 +4012,8 @@
     "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2085.png",
     "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1156779.png",
     "date": "2026-11-16",
-    "time": "09:00 AM",
-    "start_timestamp_ms": 1794798000000,
+    "time": "08:30 AM",
+    "start_timestamp_ms": 1794796200000,
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Nagaland Cricket Stadium, Sovima",
     "meta_keywords": "UPCOMING",
@@ -4220,18 +4058,18 @@
     ]
   },
   {
-    "id": "crick_1546686_20261116",
+    "id": "crick_1546690_20261116",
     "category": "Cricket",
     "event_name": "Syed Mushtaq Ali Trophy",
-    "team1": "Himachal Pradesh",
-    "team2": "Andhra",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1752.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1541.png",
+    "team1": "Vidarbha",
+    "team2": "Odisha",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2179.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1988.png",
     "date": "2026-11-16",
-    "time": "09:30 AM",
-    "start_timestamp_ms": 1794799800000,
+    "time": "08:30 AM",
+    "start_timestamp_ms": 1794796200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "I.S. Bindra Punjab Cricket Association Stadium",
+    "description": "Jadavpur University Campus 2nd Ground, Kolkata",
     "meta_keywords": "UPCOMING",
     "official_tv": [],
     "stream_ads": [
@@ -11391,18 +11229,18 @@
     ]
   },
   {
-    "id": "crick_1551709_20261119",
+    "id": "crick_1551670_20261119",
     "category": "Cricket",
-    "event_name": "CSA 3-Day Series Division 2 2026/27",
-    "team1": "Limpopo",
-    "team2": "KwaZulu-Natal Inland",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/256841.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/256900.png",
+    "event_name": "CSA 4-Day Series Division 1",
+    "team1": "Dolphins",
+    "team2": "Western Province",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3199.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3357.png",
     "date": "2026-11-19",
     "time": "02:00 PM",
     "start_timestamp_ms": 1795075200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Cricket Club Ground, Polokwane",
+    "description": "Kingsmead, Durban",
     "meta_keywords": "UPCOMING",
     "official_tv": [],
     "stream_ads": [
@@ -11445,18 +11283,18 @@
     ]
   },
   {
-    "id": "crick_1551708_20261119",
+    "id": "crick_1551671_20261119",
     "category": "Cricket",
-    "event_name": "CSA 3-Day Series Division 2 2026/27",
-    "team1": "South Western Districts",
-    "team2": "Border",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3337.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3168.png",
+    "event_name": "CSA 4-Day Series Division 1",
+    "team1": "Knights",
+    "team2": "Boland",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3202.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3161.png",
     "date": "2026-11-19",
     "time": "02:00 PM",
     "start_timestamp_ms": 1795075200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Recreation Ground, Oudtshoorn",
+    "description": "Mangaung Oval, Bloemfontein",
     "meta_keywords": "UPCOMING",
     "official_tv": [],
     "stream_ads": [

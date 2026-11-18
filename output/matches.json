@@ -110,7 +110,7 @@
     "time": "11:45 PM",
     "start_timestamp_ms": 1795023900000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 8'",
+    "description": "0 : 0 | 12'",
     "meta_keywords": "LIVE",
     "official_tv": [
       "ESPN+",
@@ -162,7 +162,7 @@
     "time": "11:45 PM",
     "start_timestamp_ms": 1795023900000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 8'",
+    "description": "0 : 0 | 12'",
     "meta_keywords": "LIVE",
     "official_tv": [
       "ESPN Deportes",
@@ -1082,16 +1082,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -1131,16 +1131,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -1180,16 +1180,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -1229,16 +1229,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -1278,16 +1278,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -1327,16 +1327,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -1422,9 +1422,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -1473,9 +1473,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -1935,9 +1935,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       }
     ]
   },
@@ -1984,9 +1984,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       }
     ]
   },
@@ -3030,16 +3030,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3073,16 +3073,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3116,16 +3116,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3159,16 +3159,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3202,16 +3202,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3597,22 +3597,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8"
-      },
-      {
-        "title": "ESPN 4 (Brazil)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://181.78.49.113:9999/play/a07e/index.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3655,22 +3649,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8"
-      },
-      {
-        "title": "ESPN 4 (Brazil)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://181.78.49.113:9999/play/a07e/index.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3713,22 +3701,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8"
-      },
-      {
-        "title": "ESPN 4 (Brazil)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://181.78.49.113:9999/play/a07e/index.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -3771,22 +3753,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8"
-      },
-      {
-        "title": "ESPN 4 (Brazil)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://181.78.49.113:9999/play/a07e/index.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -4598,16 +4574,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -4644,9 +4620,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -4695,9 +4671,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -4746,9 +4722,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -5247,16 +5223,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -5299,16 +5275,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -5351,22 +5327,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8"
-      },
-      {
-        "title": "ESPN 4 (Brazil)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://181.78.49.113:9999/play/a07e/index.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -5409,22 +5379,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "beIN SPORTS XTRA en Espanol",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8"
-      },
-      {
-        "title": "ESPN 4 (Brazil)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://181.78.49.113:9999/play/a07e/index.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -6144,9 +6108,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -6196,9 +6160,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -6247,9 +6211,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -6647,16 +6611,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -6849,6 +6813,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -6859,12 +6829,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -6900,6 +6864,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -6910,12 +6880,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -6953,9 +6917,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -7402,16 +7366,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8054,6 +8018,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8064,12 +8034,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8105,6 +8069,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8115,12 +8085,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8156,6 +8120,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8166,12 +8136,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8207,6 +8171,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8217,12 +8187,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8258,6 +8222,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8268,12 +8238,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8309,6 +8273,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8319,12 +8289,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8360,6 +8324,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8370,12 +8340,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8411,6 +8375,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8421,12 +8391,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8462,6 +8426,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -8472,12 +8442,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8511,16 +8475,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8554,16 +8518,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8601,9 +8565,9 @@
       },
       {
         "title": "Fox Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+        "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
       },
       {
         "title": "TSN 1 (BDIX)",
@@ -9149,6 +9113,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -9159,12 +9129,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9200,6 +9164,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -9210,12 +9180,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9251,6 +9215,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -9261,12 +9231,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9302,6 +9266,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -9312,12 +9282,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9353,6 +9317,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -9363,12 +9333,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9404,6 +9368,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -9414,12 +9384,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9455,6 +9419,12 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+      },
+      {
         "title": "Sony Sports Ten 3 HD Hindi",
         "quality": "HD",
         "type": "ts",
@@ -9465,12 +9435,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   }

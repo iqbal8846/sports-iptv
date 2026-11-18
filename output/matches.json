@@ -1,207 +1,5 @@
 [
   {
-    "id": "crick_1550712_20261117",
-    "category": "Cricket",
-    "event_name": "Sri Lanka tour of Pakistan 2026/27",
-    "league_priority": 11,
-    "team1": "Pakistan",
-    "team2": "Sri Lanka",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/7.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/8.png",
-    "date": "2026-11-17",
-    "time": "10:30 AM",
-    "start_timestamp_ms": 1794889800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "98 & 74/3 | Sri Lanka trail by 153 runs",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "PTV Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      },
-      {
-        "title": "A sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      },
-      {
-        "title": "Willow TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7058af1b60fb3bcfd7f687bf5b7866aa"
-      }
-    ]
-  },
-  {
-    "id": "crick_1525662_20261117",
-    "category": "Cricket",
-    "event_name": "Bangladesh tour of South Africa 2026/27",
-    "league_priority": 11,
-    "team1": "South Africa",
-    "team2": "Bangladesh",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/25.png",
-    "date": "2026-11-17",
-    "time": "02:00 PM",
-    "start_timestamp_ms": 1794902400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "400 & 100/5 | Bangladesh trail by 57 runs",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "T Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
-      },
-      {
-        "title": "T Sports HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "title": "GAZI TV HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
-      },
-      {
-        "title": "Gazi TV (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401916982_20261118",
-    "category": "Football",
-    "event_name": "UEFA Women's Champions League",
-    "league_priority": 10,
-    "team1": "BK Häcken",
-    "team2": "Manchester City",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/21124.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png",
-    "date": "2026-11-18",
-    "time": "11:45 PM",
-    "start_timestamp_ms": 1795023900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 12'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "ESPN+",
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Eurosport 1 Hungary",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://88.212.7.14/live/esp1_hun/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401916981_20261118",
-    "category": "Football",
-    "event_name": "UEFA Women's Champions League",
-    "league_priority": 10,
-    "team1": "Real Madrid",
-    "team2": "Internazionale",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/131635.png",
-    "date": "2026-11-18",
-    "time": "11:45 PM",
-    "start_timestamp_ms": 1795023900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 12'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "ESPN Deportes",
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      }
-    ]
-  },
-  {
     "id": "crick_1550712_20261118",
     "category": "Cricket",
     "event_name": "Sri Lanka tour of Pakistan 2026/27",
@@ -300,6 +98,55 @@
     ]
   },
   {
+    "id": "crick_1539442_20261119",
+    "category": "Cricket",
+    "event_name": "India tour of New Zealand 2026/27",
+    "league_priority": 11,
+    "team1": "New Zealand",
+    "team2": "India",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+    "date": "2026-11-19",
+    "time": "04:00 AM",
+    "start_timestamp_ms": 1795039200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "13/2 | India won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Cricket (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Willow Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+      }
+    ]
+  },
+  {
     "id": "crick_1550712_20261119",
     "category": "Cricket",
     "event_name": "Sri Lanka tour of Pakistan 2026/27",
@@ -394,110 +241,6 @@
         "quality": "Live",
         "type": "m3u8",
         "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401916980_20261119",
-    "category": "Football",
-    "event_name": "UEFA Women's Champions League",
-    "league_priority": 10,
-    "team1": "Chelsea",
-    "team2": "Paris Saint-Germain",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/19970.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png",
-    "date": "2026-11-19",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795032000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "The Cherry Red Records Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "ESPN Deportes",
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401916979_20261119",
-    "category": "Football",
-    "event_name": "UEFA Women's Champions League",
-    "league_priority": 10,
-    "team1": "Juventus",
-    "team2": "OH Leuven",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20092.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/131423.png",
-    "date": "2026-11-19",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795032000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Stadio Olimpico Grande Torino",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "ESPN+",
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Eurosport 1 Hungary",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://88.212.7.14/live/esp1_hun/index.m3u8"
       }
     ]
   },
@@ -602,55 +345,6 @@
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.7.14/live/esp1_hun/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1539442_20261119",
-    "category": "Cricket",
-    "event_name": "India tour of New Zealand 2026/27",
-    "league_priority": 11,
-    "team1": "New Zealand",
-    "team2": "India",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
-    "date": "2026-11-19",
-    "time": "04:00 AM",
-    "start_timestamp_ms": 1795039200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Basin Reserve, Wellington",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Cricket (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       }
     ]
   },
@@ -1047,296 +741,51 @@
     ]
   },
   {
-    "id": "foot_401928518_20261119",
-    "category": "Football",
-    "event_name": "Spanish Copa del Rey",
-    "league_priority": 17,
-    "team1": "Portugalete",
-    "team2": "Real Unión Irun",
-    "logo1": "",
-    "logo2": "",
-    "date": "2026-11-19",
-    "time": "12:00 AM",
-    "start_timestamp_ms": 1795024800000,
+    "id": "crick_1539442_20261120",
+    "category": "Cricket",
+    "event_name": "India tour of New Zealand 2026/27",
+    "league_priority": 11,
+    "team1": "New Zealand",
+    "team2": "India",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+    "date": "2026-11-20",
+    "time": "04:00 AM",
+    "start_timestamp_ms": 1795125600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "La Florida",
-    "meta_keywords": "UPCOMING",
+    "description": "13/2 | India won toss & fielded",
+    "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
+        "title": "Sony Ten Cricket (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
       },
       {
-        "title": "ESPN 2 (United States)",
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
+        "title": "Willow Sports (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401928497_20261119",
-    "category": "Football",
-    "event_name": "Spanish Copa del Rey",
-    "league_priority": 17,
-    "team1": "Utebo",
-    "team2": "CD Sabadell",
-    "logo1": "",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/11487.png",
-    "date": "2026-11-19",
-    "time": "12:00 AM",
-    "start_timestamp_ms": 1795024800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Campo de Fútbol Municipal Santa",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401928505_20261119",
-    "category": "Football",
-    "event_name": "Spanish Copa del Rey",
-    "league_priority": 17,
-    "team1": "Alcoyano",
-    "team2": "Mallorca",
-    "logo1": "",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
-    "date": "2026-11-19",
-    "time": "01:00 AM",
-    "start_timestamp_ms": 1795028400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "El Collao",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401928532_20261119",
-    "category": "Football",
-    "event_name": "Spanish Copa del Rey",
-    "league_priority": 17,
-    "team1": "Badajoz",
-    "team2": "Tenerife",
-    "logo1": "",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/245.png",
-    "date": "2026-11-19",
-    "time": "01:00 AM",
-    "start_timestamp_ms": 1795028400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Estadio Municipal Nuevo Vivero",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401928524_20261119",
-    "category": "Football",
-    "event_name": "Spanish Copa del Rey",
-    "league_priority": 17,
-    "team1": "CD Minera",
-    "team2": "FC Cartagena",
-    "logo1": "",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/5419.png",
-    "date": "2026-11-19",
-    "time": "01:30 AM",
-    "start_timestamp_ms": 1795030200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Estadio Municipal Ángel Celdrán",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401928500_20261119",
-    "category": "Football",
-    "event_name": "Spanish Copa del Rey",
-    "league_priority": 17,
-    "team1": "Reus FC Reddis",
-    "team2": "Barakaldo",
-    "logo1": "",
-    "logo2": "",
-    "date": "2026-11-19",
-    "time": "01:30 AM",
-    "start_timestamp_ms": 1795030200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Camp Nou Municipal",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       }
     ]
   },
@@ -1648,55 +1097,6 @@
     ]
   },
   {
-    "id": "crick_1539442_20261120",
-    "category": "Cricket",
-    "event_name": "India tour of New Zealand 2026/27",
-    "league_priority": 11,
-    "team1": "New Zealand",
-    "team2": "India",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
-    "date": "2026-11-20",
-    "time": "04:00 AM",
-    "start_timestamp_ms": 1795125600000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Basin Reserve, Wellington",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Cricket (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      }
-    ]
-  },
-  {
     "id": "crick_1562344_20261120",
     "category": "Cricket",
     "event_name": "Asia Cup Rising Stars (50 Overs)",
@@ -1987,6 +1387,55 @@
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1539442_20261121",
+    "category": "Cricket",
+    "event_name": "India tour of New Zealand 2026/27",
+    "league_priority": 11,
+    "team1": "New Zealand",
+    "team2": "India",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+    "date": "2026-11-21",
+    "time": "04:00 AM",
+    "start_timestamp_ms": 1795212000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "13/2 | India won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Cricket (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Willow Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       }
     ]
   },
@@ -3216,55 +2665,6 @@
     ]
   },
   {
-    "id": "crick_1539442_20261121",
-    "category": "Cricket",
-    "event_name": "India tour of New Zealand 2026/27",
-    "league_priority": 11,
-    "team1": "New Zealand",
-    "team2": "India",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
-    "date": "2026-11-21",
-    "time": "04:00 AM",
-    "start_timestamp_ms": 1795212000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Basin Reserve, Wellington",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Cricket (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      }
-    ]
-  },
-  {
     "id": "crick_1562346_20261121",
     "category": "Cricket",
     "event_name": "Asia Cup Rising Stars (50 Overs)",
@@ -4389,6 +3789,55 @@
     ]
   },
   {
+    "id": "crick_1539442_20261122",
+    "category": "Cricket",
+    "event_name": "India tour of New Zealand 2026/27",
+    "league_priority": 11,
+    "team1": "New Zealand",
+    "team2": "India",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+    "date": "2026-11-22",
+    "time": "04:00 AM",
+    "start_timestamp_ms": 1795298400000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "12/2 | India won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Cricket (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Willow Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+      }
+    ]
+  },
+  {
     "id": "foot_401879234_20261122",
     "category": "Football",
     "event_name": "English Premier League",
@@ -4737,55 +4186,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
-      }
-    ]
-  },
-  {
-    "id": "crick_1539442_20261122",
-    "category": "Cricket",
-    "event_name": "India tour of New Zealand 2026/27",
-    "league_priority": 11,
-    "team1": "New Zealand",
-    "team2": "India",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
-    "date": "2026-11-22",
-    "time": "04:00 AM",
-    "start_timestamp_ms": 1795298400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Basin Reserve, Wellington",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Cricket (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       }
     ]
   },
@@ -6075,6 +5475,55 @@
     ]
   },
   {
+    "id": "crick_1539442_20261123",
+    "category": "Cricket",
+    "event_name": "India tour of New Zealand 2026/27",
+    "league_priority": 11,
+    "team1": "New Zealand",
+    "team2": "India",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+    "date": "2026-11-23",
+    "time": "04:00 AM",
+    "start_timestamp_ms": 1795384800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "12/2 | India won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Cricket (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      },
+      {
+        "title": "Willow Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+      }
+    ]
+  },
+  {
     "id": "foot_401933731_20261123",
     "category": "Football",
     "event_name": "American MLS",
@@ -6226,55 +5675,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
-      }
-    ]
-  },
-  {
-    "id": "crick_1539442_20261123",
-    "category": "Cricket",
-    "event_name": "India tour of New Zealand 2026/27",
-    "league_priority": 11,
-    "team1": "New Zealand",
-    "team2": "India",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
-    "date": "2026-11-23",
-    "time": "04:00 AM",
-    "start_timestamp_ms": 1795384800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Basin Reserve, Wellington",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Cricket (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       }
     ]
   },
@@ -9435,6 +8835,2279 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915506_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Besiktas",
+    "team2": "Hapoel Be'er",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Batumi Stadium (Adjarabet Arena)",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915519_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Celta Vigo",
+    "team2": "AFC Bournemouth",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Balaidos",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915517_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Dinamo Zagreb",
+    "team2": "Bayer Leverkusen",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Maksimir Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915507_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Marseille",
+    "team2": "Levski Sofia",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Stade Vélodrome",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915521_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Olympiacos",
+    "team2": "AC Milan",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Georgios Karaiskakis Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915520_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "RB Salzburg",
+    "team2": "Ararat-Armenia",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Red Bull Arena Salzburg",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915508_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Union St.-Gilloise",
+    "team2": "Lech Poznan",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "King Power at Den Dreef Stadion",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915518_20261126",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Viktoria Plzen",
+    "team2": "Benfica",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Doosan Arena",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915816_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Kairat Almaty",
+    "team2": "Mjällby AIF",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png",
+    "date": "2026-11-26",
+    "time": "09:30 PM",
+    "start_timestamp_ms": 1795707000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Almaty Ortalyk Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915815_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Ajax Amsterdam",
+    "team2": "FC Thun",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Johan Cruijff Arena",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915814_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Brighton & Hove Albion",
+    "team2": "CSU Craiova",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "American Express Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915810_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Egnatia",
+    "team2": "Lincoln Red Imps",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Air Albania Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915811_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Heart of Midlothian",
+    "team2": "AS Monaco",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Tynecastle Park",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915813_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Iberia 1999",
+    "team2": "Getafe",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Mikheil Meskhi Stadioni",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915812_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Jablonec",
+    "team2": "FC Lugano",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/7922.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/7672.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Stadion Strelnice",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915739_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Kauno Zalgiris",
+    "team2": "Riga FC",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "S. Darius and S. Gireno Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915809_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Pafos",
+    "team2": "FC Midtjylland",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/22281.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Alphamega Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915808_20261126",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "SK Brann",
+    "team2": "AGF",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/620.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png",
+    "date": "2026-11-26",
+    "time": "11:45 PM",
+    "start_timestamp_ms": 1795715100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Brann Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1525663_20261126",
+    "category": "Cricket",
+    "event_name": "Bangladesh tour of South Africa 2026/27",
+    "league_priority": 11,
+    "team1": "South Africa",
+    "team2": "Bangladesh",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/25.png",
+    "date": "2026-11-26",
+    "time": "02:00 PM",
+    "start_timestamp_ms": 1795680000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "SuperSport Park, Centurion",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "T Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "title": "T Sports HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "title": "GAZI TV HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
+      },
+      {
+        "title": "Gazi TV (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1554271_20261126",
+    "category": "Cricket",
+    "event_name": "England Women Under-19s tour of India 2026/27",
+    "league_priority": 11,
+    "team1": "India Women Under-19s",
+    "team2": "England Women Under-19s",
+    "logo1": "",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1336151.png",
+    "date": "2026-11-26",
+    "time": "06:30 PM",
+    "start_timestamp_ms": 1795696200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Kotambi Stadium, Vadodara",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/index.m3u8"
+      },
+      {
+        "title": "DD Sports",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+      },
+      {
+        "title": "DD Sports HD",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://cdn.pishow.tv/ott/live/1161/master.m3u8"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1544878_20261126",
+    "category": "Cricket",
+    "event_name": "Sheffield Shield",
+    "league_priority": 14,
+    "team1": "South Australia",
+    "team2": "Victoria",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/520.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/584.png",
+    "date": "2026-11-26",
+    "time": "06:00 AM",
+    "start_timestamp_ms": 1795651200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Adelaide Oval",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "FOX Cricket 501 HD",
+        "quality": "HD",
+        "type": "ts",
+        "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/4748.ts"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 Telugu HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1544877_20261126",
+    "category": "Cricket",
+    "event_name": "Sheffield Shield",
+    "league_priority": 14,
+    "team1": "Western Australia",
+    "team2": "Tasmania",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/602.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/560.png",
+    "date": "2026-11-26",
+    "time": "08:30 AM",
+    "start_timestamp_ms": 1795660200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Perth Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "FOX Cricket 501 HD",
+        "quality": "HD",
+        "type": "ts",
+        "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/4748.ts"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 Telugu HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1543977_20261126",
+    "category": "Cricket",
+    "event_name": "Women's Big Bash League",
+    "league_priority": 14,
+    "team1": "Sydney Thunder Women",
+    "team2": "Adelaide Strikers Women",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896401.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/896431.png",
+    "date": "2026-11-26",
+    "time": "10:40 AM",
+    "start_timestamp_ms": 1795668000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "North Sydney Oval, Sydney",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "FOX Cricket 501 HD",
+        "quality": "HD",
+        "type": "ts",
+        "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/4748.ts"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 Telugu HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1543978_20261126",
+    "category": "Cricket",
+    "event_name": "Women's Big Bash League",
+    "league_priority": 14,
+    "team1": "Sydney Sixers Women",
+    "team2": "Melbourne Stars Women",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896403.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/896399.png",
+    "date": "2026-11-26",
+    "time": "02:10 PM",
+    "start_timestamp_ms": 1795680600000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "North Sydney Oval, Sydney",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "FOX Cricket 501 HD",
+        "quality": "HD",
+        "type": "ts",
+        "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/4748.ts"
+      },
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 Telugu HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      },
+      {
+        "title": "Star Sports 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1557449_20261126",
+    "category": "Cricket",
+    "event_name": "International League T20",
+    "league_priority": 15,
+    "team1": "Abu Dhabi Knight Riders",
+    "team2": "MI Emirates",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1346027.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1328788.png",
+    "date": "2026-11-26",
+    "time": "08:30 PM",
+    "start_timestamp_ms": 1795703400000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Zayed Cricket Stadium, Abu Dhabi",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "Star Sports 1 Hindi (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/index.m3u8"
+      },
+      {
+        "title": "T Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "title": "T Sports HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401900874_20261126",
+    "category": "Football",
+    "event_name": "Saudi Pro League",
+    "league_priority": 21,
+    "team1": "Al Fateh",
+    "team2": "Al Riyadh",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/13033.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
+    "date": "2026-11-26",
+    "time": "08:25 PM",
+    "start_timestamp_ms": 1795703100000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Prince Abdullah bin Jalawi Stadi",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Fox Sports 1",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+      },
+      {
+        "title": "Fox Sports 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
+      },
+      {
+        "title": "T Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "title": "T Sports HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401900443_20261126",
+    "category": "Football",
+    "event_name": "Saudi Pro League",
+    "league_priority": 21,
+    "team1": "Abha",
+    "team2": "Al Shabab",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
+    "date": "2026-11-26",
+    "time": "09:05 PM",
+    "start_timestamp_ms": 1795705500000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Prince Sultan bin Abdulaziz Spor",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Fox Sports 1",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+      },
+      {
+        "title": "Fox Sports 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
+      },
+      {
+        "title": "T Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "title": "T Sports HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401900871_20261126",
+    "category": "Football",
+    "event_name": "Saudi Pro League",
+    "league_priority": 21,
+    "team1": "Al Faisaly",
+    "team2": "Al Diriyah",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
+    "date": "2026-11-26",
+    "time": "11:30 PM",
+    "start_timestamp_ms": 1795714200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "King Abdullah Sport City Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Fox Sports 1",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+      },
+      {
+        "title": "Fox Sports 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
+      },
+      {
+        "title": "T Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "title": "T Sports HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401880728_20261127",
+    "category": "Football",
+    "event_name": "English League One",
+    "league_priority": 5,
+    "team1": "Doncaster Rovers",
+    "team2": "Huddersfield Town",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/279.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/335.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Eco-Power Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sky Sports 1",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915504_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Crystal Palace",
+    "team2": "Real Sociedad",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Selhurst Park",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915516_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Ferencvaros",
+    "team2": "NK Celje",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Groupama Arena",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915502_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Juventus",
+    "team2": "Omonia Nicosia",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Allianz Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915501_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Lyon",
+    "team2": "Lillestrom",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Groupama Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915505_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "NEC Nijmegen",
+    "team2": "Stade Rennais",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Goffertstadion",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915503_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "OFI Crete",
+    "team2": "Anderlecht",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Pankritio Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915514_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Sparta Prague",
+    "team2": "AZ Alkmaar",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Generali Arena",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915513_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Sunderland",
+    "team2": "Jagiellonia Bialystok",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Stadium of Light",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915512_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "Torreense",
+    "team2": "Celtic",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Estádio Dr. Magalhaes Pessoa",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915515_20261127",
+    "category": "Football",
+    "event_name": "UEFA Europa League",
+    "league_priority": 6,
+    "team1": "TSG Hoffenheim",
+    "team2": "SK Sturm Graz",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "PreZero Arena",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "Sony Ten Sports 5 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 1 Turk",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915806_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Borac Banja Luka",
+    "team2": "Atalanta",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Gradski Stadion Banja Luka",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915802_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Braga",
+    "team2": "KuPS Kuopio",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Estádio Municipal de Braga",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915803_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "CSKA Sofia",
+    "team2": "Trabzonspor",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/10834.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Balgarska Armia Stadium",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915807_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "FC Nordsjælland",
+    "team2": "Panathinaikos",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/3101.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/443.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Right to Dream Park",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915805_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Hajduk Split",
+    "team2": "Sint-Truidense",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/489.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/936.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Stadion Poljud",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915738_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "Inter D'Escaldes",
+    "team2": "F.C. København",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Estadi de la FAF d'Encamp",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915804_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "KAA Gent",
+    "team2": "Red Star Belgrade",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/3611.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Ghelamco Arena",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401915801_20261127",
+    "category": "Football",
+    "event_name": "UEFA Conference League",
+    "league_priority": 7,
+    "team1": "SC Freiburg",
+    "team2": "FC Twente",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
+    "date": "2026-11-27",
+    "time": "02:00 AM",
+    "start_timestamp_ms": 1795723200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Europa-Park Stadion",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sony Ten Sports 1 HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+      },
+      {
+        "title": "TNT Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+      },
+      {
+        "title": "beIN Sports 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       }
     ]
   }

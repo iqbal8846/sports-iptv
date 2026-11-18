@@ -2,7 +2,7 @@ name: Auto Update Sports M3U & Matches JSON API
 
 on:
   schedule:
-    # Runs hourly to refresh live match scores/fixtures; full stream health check runs every 6 hours
+    # Runs hourly to refresh live match scores/fixtures; full stream health check runs every ~6 hours
     - cron: "0 * * * *"
   workflow_dispatch: # Allows manual 1-click run from GitHub Actions tab
   push:
@@ -34,13 +34,26 @@ jobs:
       - name: Refresh Sports Streams (Every 6h) & Match JSON API (Hourly)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_NAME: ${{ github.event_name }}
         run: |
-          HOUR=$(date -u +%H)
-          if [ "${{ github.event_name }}" != "schedule" ] || [ $((10#$HOUR % 6)) -eq 0 ]; then
+          SHOULD_SCAN=$(python -c "
+          import datetime, json, os
+          if os.environ.get('EVENT_NAME') != 'schedule' or not os.path.exists('output/status.json'):
+              print('yes')
+          else:
+              try:
+                  st = json.load(open('output/status.json', encoding='utf-8'))
+                  last = datetime.datetime.fromisoformat(st['updated_at_utc'])
+                  age_sec = (datetime.datetime.now(datetime.timezone.utc) - last).total_seconds()
+                  print('yes' if age_sec >= 19800 else 'no')
+              except Exception:
+                  print('yes')
+          ")
+          if [ "$SHOULD_SCAN" = "yes" ]; then
             echo "Running full 6-hour M3U stream health check..."
             python generator.py
           else
-            echo "Hourly tick: keeping verified streams and refreshing live match schedules & scores..."
+            echo "Streams verified < 5.5h ago; refreshing live match schedules & scores..."
           fi
           python matches_generator.py
 

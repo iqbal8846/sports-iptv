@@ -559,6 +559,10 @@ def fetch_week_fixtures(all_streams: List[VerifiedStream], max_soccer_per_day: i
                         # Skip finished matches that no longer have an active live stream
                         continue
                     else:
+                        # Skip stale/postponed matches from yesterday that never went live (> 3.5h past kickoff)
+                        now_epoch_ms = int(now_bd.timestamp() * 1000)
+                        if start_ts_ms > 0 and (now_epoch_ms - start_ts_ms) > int(3.5 * 3600 * 1000):
+                            continue
                         meta_keywords = "UPCOMING"
                         status_rank = 1
                         venue = (ev.get("location") or "").strip()

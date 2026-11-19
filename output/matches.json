@@ -30,9 +30,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -91,9 +91,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -110,7 +110,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795039200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "13/2 | India won toss & fielded",
+    "description": "184/5 | India won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -134,9 +134,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -177,9 +177,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -238,9 +238,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -402,10 +402,10 @@
     "category": "Cricket",
     "event_name": "Asia Cup Rising Stars (50 Overs)",
     "league_priority": 11,
-    "team1": "Sri Lanka A",
-    "team2": "Afghanistan A",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3590.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/603606.png",
+    "team1": "Afghanistan A",
+    "team2": "Sri Lanka A",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/603606.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3590.png",
     "date": "2026-11-19",
     "time": "04:00 PM",
     "start_timestamp_ms": 1795082400000,
@@ -587,9 +587,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -636,9 +636,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -685,9 +685,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -734,9 +734,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -753,7 +753,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795125600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "13/2 | India won toss & fielded",
+    "description": "184/5 | India won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -777,9 +777,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -820,9 +820,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -1335,9 +1335,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
       }
     ]
   },
@@ -1384,9 +1384,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
       }
     ]
   },
@@ -1403,7 +1403,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795212000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "13/2 | India won toss & fielded",
+    "description": "183/5 | India won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -1427,9 +1427,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -1470,9 +1470,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -1533,10 +1533,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -1584,10 +1585,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -1635,10 +1637,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -1686,10 +1689,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -1737,10 +1741,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -1789,10 +1794,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -1841,10 +1847,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -1880,17 +1887,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -1932,17 +1939,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -1982,17 +1989,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2032,17 +2039,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2084,17 +2091,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2136,17 +2143,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2186,17 +2193,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2236,17 +2243,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2286,17 +2293,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2338,17 +2345,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2390,17 +2397,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -2750,9 +2757,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -2952,9 +2959,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -3198,17 +3205,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -3251,17 +3258,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -3304,17 +3311,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -3370,10 +3377,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3421,10 +3429,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3472,10 +3481,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3523,10 +3533,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3574,10 +3585,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3625,10 +3637,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3676,10 +3689,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3701,17 +3715,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -3755,17 +3769,17 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -3801,7 +3815,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795298400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "12/2 | India won toss & fielded",
+    "description": "183/5 | India won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -3825,9 +3839,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -3882,10 +3896,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3934,10 +3949,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -3973,17 +3989,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -4529,9 +4545,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -4578,9 +4594,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -4824,17 +4840,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -4877,17 +4893,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -4930,17 +4946,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -4983,17 +4999,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -5036,17 +5052,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -5101,10 +5117,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -5152,10 +5169,11 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -5179,17 +5197,17 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -5230,17 +5248,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -5282,17 +5300,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -5334,17 +5352,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -5388,17 +5406,17 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -5441,17 +5459,17 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -5487,7 +5505,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795384800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "12/2 | India won toss & fielded",
+    "description": "183/5 | India won toss & fielded",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -5511,9 +5529,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -5770,9 +5788,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -5966,9 +5984,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -6056,17 +6074,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -6097,17 +6115,17 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -6174,10 +6192,11 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
+        "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -6427,9 +6446,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -6470,9 +6489,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -6721,9 +6740,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -6811,17 +6830,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "Setanta Sports 1 Eurasia",
@@ -6864,17 +6883,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -6914,17 +6933,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -6964,17 +6983,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -7014,17 +7033,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -7064,17 +7083,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -7116,17 +7135,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -7166,17 +7185,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -7218,17 +7237,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -8026,9 +8045,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -8271,9 +8290,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -8307,17 +8326,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -8359,17 +8378,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -8409,17 +8428,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -8461,17 +8480,17 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       },
       {
         "title": "beIN Sports 2",
@@ -8876,17 +8895,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8928,17 +8947,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -8980,17 +8999,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9032,17 +9051,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9084,17 +9103,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9136,17 +9155,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9188,17 +9207,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9240,17 +9259,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -9747,9 +9766,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -9784,9 +9803,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
       },
       {
         "title": "DD Sports HD",
@@ -9796,9 +9815,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -10041,9 +10060,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -10269,17 +10288,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10321,17 +10340,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10373,17 +10392,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10425,17 +10444,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10477,17 +10496,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10529,17 +10548,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10581,17 +10600,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10633,17 +10652,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10685,17 +10704,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },
@@ -10737,17 +10756,17 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "beIN Sports 1 Turk",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+      },
+      {
+        "title": "beIN Sports 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
       }
     ]
   },

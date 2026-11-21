@@ -1,13 +1,13 @@
 {
-  "updated_at_bdt": "2026-11-21 12:57:19 AM (BDT / UTC+6)",
-  "updated_at_utc": "2026-11-20T18:57:19.698989+00:00",
-  "sources_scanned": 14,
-  "total_sports_candidates": 970,
+  "updated_at_bdt": "2026-11-21 06:38:39 AM (BDT / UTC+6)",
+  "updated_at_utc": "2026-11-21T00:38:39.387847+00:00",
+  "sources_scanned": 15,
+  "total_sports_candidates": 811,
   "working_counts": {
-    "sports_all": 699,
-    "football": 258,
-    "cricket": 234,
-    "bdix": 111
+    "sports_all": 613,
+    "football": 276,
+    "cricket": 249,
+    "bdix": 115
   },
   "files": {
     "sports_all": "sports_all.m3u",
@@ -18,241 +18,241 @@
     {
       "name": "Willow Sports",
       "category": "Cricket",
-      "latency_ms": 114,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "Willow Sports",
-      "category": "Cricket",
-      "latency_ms": 119,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "Willow Sports (1080p)",
-      "category": "Cricket",
-      "latency_ms": 130,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "GAZI TV HD",
-      "category": "Cricket",
-      "latency_ms": 247,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "Willow Sports",
-      "category": "Cricket",
-      "latency_ms": 263,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "PSL TV",
-      "category": "Cricket",
-      "latency_ms": 343,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "Willow Sports",
-      "category": "Cricket",
-      "latency_ms": 411,
+      "latency_ms": 75,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
       "name": "Cricket Gold (1080p)",
       "category": "Cricket",
-      "latency_ms": 467,
+      "latency_ms": 91,
       "source": "IPTV-Org Sports (Global)"
     },
     {
-      "name": "Willow Sports",
+      "name": "Willow Sports (1080p)",
       "category": "Cricket",
-      "latency_ms": 733,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "CCTV-Storm Football (1080p)",
-      "category": "Football",
-      "latency_ms": 124,
+      "latency_ms": 102,
       "source": "IPTV-Org Sports (Global)"
     },
     {
-      "name": "Strongman Champions League",
-      "category": "Football",
-      "latency_ms": 133,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "Strongman Champions League",
-      "category": "Football",
-      "latency_ms": 167,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "Strongman Champions League",
-      "category": "Football",
+      "name": "GAZI TV HD",
+      "category": "Cricket",
       "latency_ms": 172,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
-      "name": "Strongman Champions League (720p)",
+      "name": "Willow Sports",
+      "category": "Cricket",
+      "latency_ms": 192,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "Willow Sports",
+      "category": "Cricket",
+      "latency_ms": 192,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "Willow Sports",
+      "category": "Cricket",
+      "latency_ms": 327,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "PSL TV",
+      "category": "Cricket",
+      "latency_ms": 496,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "Willow 2",
+      "category": "Cricket",
+      "latency_ms": 683,
+      "source": "Auto:time2shine/Rokon-IPTV"
+    },
+    {
+      "name": "Willow Sports",
+      "category": "Cricket",
+      "latency_ms": 973,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "Strongman Champions League (1080p)",
       "category": "Football",
-      "latency_ms": 197,
-      "source": "Free-TV Curated IPTV"
+      "latency_ms": 75,
+      "source": "IPTV-Org Sports (Global)"
     },
     {
       "name": "Strongman Champions League",
       "category": "Football",
-      "latency_ms": 204,
+      "latency_ms": 85,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
       "name": "Strongman Champions League",
       "category": "Football",
-      "latency_ms": 209,
+      "latency_ms": 125,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
-      "name": "Win+ Futbol (1080p)",
+      "name": "Strongman Champions League",
       "category": "Football",
-      "latency_ms": 210,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "TOP Barca (1080p)",
-      "category": "Football",
-      "latency_ms": 215,
-      "source": "Free-TV Curated IPTV"
-    },
-    {
-      "name": "Golazo Network (720p)",
-      "category": "Football",
-      "latency_ms": 219,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "Win+ Futbol",
-      "category": "Football",
-      "latency_ms": 224,
+      "latency_ms": 146,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
-      "name": "FIFA+ (720p)",
+      "name": "FIFA+ German (720p)",
       "category": "Football",
-      "latency_ms": 238,
-      "source": "Auto:iqbal8846/sports-iptv"
-    },
-    {
-      "name": "FIFA+ United States (720p)",
-      "category": "Football",
-      "latency_ms": 243,
+      "latency_ms": 147,
       "source": "IPTV-Org Sports (Global)"
     },
     {
       "name": "FIFA+ Portuguese (720p)",
       "category": "Football",
-      "latency_ms": 251,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "MUTV (720p)",
-      "category": "Football",
-      "latency_ms": 256,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "Real Madrid TV (1080p)",
-      "category": "Football",
-      "latency_ms": 276,
+      "latency_ms": 152,
       "source": "IPTV-Org Sports (Global)"
     },
     {
       "name": "Strongman Champions League",
       "category": "Football",
-      "latency_ms": 289,
+      "latency_ms": 159,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
-      "name": "FIFA+ (1080p)",
+      "name": "Win+ Futbol (1080p)",
       "category": "Football",
-      "latency_ms": 292,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "Real Madrid TV English",
-      "category": "Football",
-      "latency_ms": 298,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "FIFA+ German (720p)",
-      "category": "Football",
-      "latency_ms": 306,
+      "latency_ms": 159,
       "source": "IPTV-Org Sports (Global)"
     },
     {
       "name": "FIFA+",
       "category": "Football",
-      "latency_ms": 307,
+      "latency_ms": 172,
       "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "FIFA+ United States (720p)",
+      "category": "Football",
+      "latency_ms": 182,
+      "source": "IPTV-Org Sports (Global)"
+    },
+    {
+      "name": "MUTV (720p)",
+      "category": "Football",
+      "latency_ms": 185,
+      "source": "IPTV-Org Sports (Global)"
+    },
+    {
+      "name": "Real Madrid TV (1080p)",
+      "category": "Football",
+      "latency_ms": 186,
+      "source": "IPTV-Org Sports (Global)"
     },
     {
       "name": "FIFA+ French (720p)",
       "category": "Football",
-      "latency_ms": 319,
+      "latency_ms": 189,
       "source": "IPTV-Org Sports (Global)"
+    },
+    {
+      "name": "Win+ Futbol",
+      "category": "Football",
+      "latency_ms": 189,
+      "source": "Auto:iqbal8846/sports-iptv"
     },
     {
       "name": "FIFA+ Hispanic America (720p)",
       "category": "Football",
-      "latency_ms": 320,
+      "latency_ms": 192,
       "source": "IPTV-Org Sports (Global)"
     },
     {
-      "name": "FIFA+",
+      "name": "Real Madrid TV",
       "category": "Football",
-      "latency_ms": 353,
+      "latency_ms": 203,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
-      "name": "FIFA+ Spain (720p)",
+      "name": "FIFA+ (720p)",
       "category": "Football",
-      "latency_ms": 379,
-      "source": "IPTV-Org Sports (Global)"
-    },
-    {
-      "name": "FIFA+",
-      "category": "Football",
-      "latency_ms": 407,
+      "latency_ms": 209,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
       "name": "FIFA+ Women (720p)",
       "category": "Football",
-      "latency_ms": 413,
+      "latency_ms": 209,
+      "source": "IPTV-Org Sports (Global)"
+    },
+    {
+      "name": "Real Madrid TV English",
+      "category": "Football",
+      "latency_ms": 213,
       "source": "IPTV-Org Sports (Global)"
     },
     {
       "name": "FIFA+",
       "category": "Football",
-      "latency_ms": 417,
+      "latency_ms": 216,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "Strongman Champions League",
+      "category": "Football",
+      "latency_ms": 216,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "CCTV-Storm Football (1080p)",
+      "category": "Football",
+      "latency_ms": 217,
+      "source": "IPTV-Org Sports (Global)"
+    },
+    {
+      "name": "Strongman Champions League (720p)",
+      "category": "Football",
+      "latency_ms": 219,
+      "source": "Free-TV Curated IPTV"
+    },
+    {
+      "name": "Strongman Champions League",
+      "category": "Football",
+      "latency_ms": 222,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "FIFA+",
+      "category": "Football",
+      "latency_ms": 224,
+      "source": "Auto:iqbal8846/sports-iptv"
+    },
+    {
+      "name": "FIFA+",
+      "category": "Football",
+      "latency_ms": 237,
       "source": "Auto:iqbal8846/sports-iptv"
     },
     {
       "name": "FIFA+ Italy (720p)",
       "category": "Football",
-      "latency_ms": 427,
+      "latency_ms": 238,
       "source": "IPTV-Org Sports (Global)"
     },
     {
-      "name": "Futbol (1080p)",
+      "name": "CBS Sports Golazo Network (720p)",
       "category": "Football",
-      "latency_ms": 446,
+      "latency_ms": 240,
       "source": "IPTV-Org Sports (Global)"
     },
     {
-      "name": "Strongman Champions League (1080p)",
+      "name": "TOP Barca (1080p)",
       "category": "Football",
-      "latency_ms": 517,
+      "latency_ms": 269,
+      "source": "Free-TV Curated IPTV"
+    },
+    {
+      "name": "FIFA+ Spain (720p)",
+      "category": "Football",
+      "latency_ms": 272,
       "source": "IPTV-Org Sports (Global)"
     }
   ]

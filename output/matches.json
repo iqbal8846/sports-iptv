@@ -12,7 +12,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795212000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "486/4 | India lead by 118 runs",
+    "description": "720/9d | New Zealand trail by 352 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -45,100 +45,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401878333_20261122",
-    "category": "Football",
-    "event_name": "Scottish Premiership",
-    "league_priority": 6,
-    "team1": "Motherwell",
-    "team2": "Rangers",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/266.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png",
-    "date": "2026-11-22",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795291200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "1 : 1 | 65'",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401933732_20261122",
-    "category": "Football",
-    "event_name": "American MLS",
-    "league_priority": 9,
-    "team1": "FC Dallas",
-    "team2": "Portland Timbers",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-    "date": "2026-11-22",
-    "time": "03:00 AM",
-    "start_timestamp_ms": 1795294800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 14'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Apple TV"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
-      },
-      {
-        "title": "Fox Sports HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
-      },
-      {
-        "title": "TSN 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
       }
     ]
   },
@@ -155,7 +61,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795298400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "486/4 | India lead by 118 runs",
+    "description": "720/9d | New Zealand trail by 352 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -192,25 +98,83 @@
     ]
   },
   {
-    "id": "foot_401882798_20261122",
-    "category": "Football",
-    "event_name": "Spanish LaLiga",
-    "league_priority": 16,
-    "team1": "Real Madrid",
-    "team2": "Celta Vigo",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+    "id": "crick_1544876_20261122",
+    "category": "Cricket",
+    "event_name": "Sheffield Shield",
+    "league_priority": 14,
+    "team1": "New South Wales",
+    "team2": "Queensland",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
     "date": "2026-11-22",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795291200000,
+    "time": "05:30 AM",
+    "start_timestamp_ms": 1795303800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | 58'",
+    "description": "72/1 | Queensland won toss & batted",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 TELUGU HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 TAMIL",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401934232_20261122",
+    "category": "Football",
+    "event_name": "American NWSL",
+    "league_priority": 15,
+    "team1": "Washington Spirit",
+    "team2": "Kansas City Current",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
+    "date": "2026-11-22",
+    "time": "07:00 AM",
+    "start_timestamp_ms": 1795309200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "0 : 0 | 29'",
     "meta_keywords": "LIVE",
     "official_tv": [
-      "ESPN Deportes",
-      "ESPN+"
+      "CBS",
+      "Paramount+"
     ],
     "stream_ads": [
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      },
       {
         "title": "ESPN (United States) HD",
         "quality": "HD",
@@ -230,274 +194,10 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
-        "title": "Premier Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401875067_20261122",
-    "category": "Football",
-    "event_name": "Italian Serie A",
-    "league_priority": 18,
-    "team1": "Napoli",
-    "team2": "Torino",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-    "date": "2026-11-22",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795290300000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "1 : 0 | 81'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
+        "title": "TSN 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 1 Turk",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Eleven Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://92.114.85.87:8002/play/a00e/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401876399_20261122",
-    "category": "Football",
-    "event_name": "French Ligue 1",
-    "league_priority": 20,
-    "team1": "AS Monaco",
-    "team2": "AJ Auxerre",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-    "date": "2026-11-22",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795290300000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | 76'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "beIn Sports"
-    ],
-    "stream_ads": [
-      {
-        "title": "beIN Sports 1 Turk",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
-        "title": "Arena Sport 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      }
-    ]
-  },
-  {
-    "id": "foot_401876403_20261122",
-    "category": "Football",
-    "event_name": "French Ligue 1",
-    "league_priority": 20,
-    "team1": "Lens",
-    "team2": "Toulouse",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-    "date": "2026-11-22",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795290300000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "1 : 1 | 82'",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "beIN Sports 1 Turk",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
-        "title": "Arena Sport 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
-      }
-    ]
-  },
-  {
-    "id": "foot_401876402_20261122",
-    "category": "Football",
-    "event_name": "French Ligue 1",
-    "league_priority": 20,
-    "team1": "Lille",
-    "team2": "Lyon",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-    "date": "2026-11-22",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795290300000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | 80'",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "beIN Sports 1 Turk",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
-        "title": "Arena Sport 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
-      }
-    ]
-  },
-  {
-    "id": "foot_401876396_20261122",
-    "category": "Football",
-    "event_name": "French Ligue 1",
-    "league_priority": 20,
-    "team1": "Strasbourg",
-    "team2": "Brest",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-    "date": "2026-11-22",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795290300000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | 82'",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "beIN Sports 1 Turk",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
-        "title": "Arena Sport 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
+        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
       }
     ]
   },
@@ -660,57 +360,6 @@
         "quality": "Live",
         "type": "m3u8",
         "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401933739_20261122",
-    "category": "Football",
-    "event_name": "American MLS",
-    "league_priority": 9,
-    "team1": "Inter Miami CF",
-    "team2": "Columbus Crew",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-    "date": "2026-11-22",
-    "time": "05:00 AM",
-    "start_timestamp_ms": 1795302000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Nu Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "Apple TV"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
-      },
-      {
-        "title": "Fox Sports HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
-      },
-      {
-        "title": "TSN 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
       }
     ]
   },
@@ -965,58 +614,6 @@
     ]
   },
   {
-    "id": "crick_1544876_20261122",
-    "category": "Cricket",
-    "event_name": "Sheffield Shield",
-    "league_priority": 14,
-    "team1": "New South Wales",
-    "team2": "Queensland",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
-    "date": "2026-11-22",
-    "time": "05:30 AM",
-    "start_timestamp_ms": 1795303800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Sydney Cricket Ground",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TELUGU HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 TAMIL",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-      }
-    ]
-  },
-  {
     "id": "crick_1543974_20261122",
     "category": "Cricket",
     "event_name": "Women's Big Bash League",
@@ -1117,58 +714,6 @@
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401934232_20261122",
-    "category": "Football",
-    "event_name": "American NWSL",
-    "league_priority": 15,
-    "team1": "Washington Spirit",
-    "team2": "Kansas City Current",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
-    "date": "2026-11-22",
-    "time": "07:00 AM",
-    "start_timestamp_ms": 1795309200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Audi Field",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "CBS",
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "ESPN (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States)",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
-      },
-      {
-        "title": "ESPN 2 (United States) HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
       }
     ]
   },
@@ -1860,7 +1405,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795384800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "486/4 | India lead by 118 runs",
+    "description": "720/9d | India lead by 352 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -1893,6 +1438,58 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1544876_20261123",
+    "category": "Cricket",
+    "event_name": "Sheffield Shield",
+    "league_priority": 14,
+    "team1": "New South Wales",
+    "team2": "Queensland",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
+    "date": "2026-11-23",
+    "time": "05:30 AM",
+    "start_timestamp_ms": 1795390200000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "72/1 | Queensland won toss & batted",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 TELUGU HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 TAMIL",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -2351,58 +1948,6 @@
     ]
   },
   {
-    "id": "crick_1544876_20261123",
-    "category": "Cricket",
-    "event_name": "Sheffield Shield",
-    "league_priority": 14,
-    "team1": "New South Wales",
-    "team2": "Queensland",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
-    "date": "2026-11-23",
-    "time": "05:30 AM",
-    "start_timestamp_ms": 1795390200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Sydney Cricket Ground",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TELUGU HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 TAMIL",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-      }
-    ]
-  },
-  {
     "id": "crick_1544877_20261123",
     "category": "Cricket",
     "event_name": "Sheffield Shield",
@@ -2658,6 +2203,58 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      }
+    ]
+  },
+  {
+    "id": "crick_1544876_20261124",
+    "category": "Cricket",
+    "event_name": "Sheffield Shield",
+    "league_priority": 14,
+    "team1": "New South Wales",
+    "team2": "Queensland",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
+    "date": "2026-11-24",
+    "time": "05:30 AM",
+    "start_timestamp_ms": 1795476600000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "72/1 | Queensland won toss & batted",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 TELUGU HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 TAMIL",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -3073,58 +2670,6 @@
     ]
   },
   {
-    "id": "crick_1544876_20261124",
-    "category": "Cricket",
-    "event_name": "Sheffield Shield",
-    "league_priority": 14,
-    "team1": "New South Wales",
-    "team2": "Queensland",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
-    "date": "2026-11-24",
-    "time": "05:30 AM",
-    "start_timestamp_ms": 1795476600000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Sydney Cricket Ground",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TELUGU HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 TAMIL",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-      }
-    ]
-  },
-  {
     "id": "crick_1544878_20261124",
     "category": "Cricket",
     "event_name": "Sheffield Shield",
@@ -3379,6 +2924,58 @@
         "quality": "Live",
         "type": "m3u8",
         "url": "http://92.114.85.87:8002/play/a00e/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1544876_20261125",
+    "category": "Cricket",
+    "event_name": "Sheffield Shield",
+    "league_priority": 14,
+    "team1": "New South Wales",
+    "team2": "Queensland",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
+    "date": "2026-11-25",
+    "time": "05:30 AM",
+    "start_timestamp_ms": 1795563000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "72/1 | Queensland won toss & batted",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 TELUGU HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 TAMIL",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       }
     ]
   },
@@ -4591,58 +4188,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1544876_20261125",
-    "category": "Cricket",
-    "event_name": "Sheffield Shield",
-    "league_priority": 14,
-    "team1": "New South Wales",
-    "team2": "Queensland",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/387.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/459.png",
-    "date": "2026-11-25",
-    "time": "05:30 AM",
-    "start_timestamp_ms": 1795563000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Sydney Cricket Ground",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TELUGU HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 TAMIL",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "Willow Sports",

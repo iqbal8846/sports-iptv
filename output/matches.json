@@ -42,9 +42,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -61,7 +61,7 @@
     "time": "05:30 AM",
     "start_timestamp_ms": 1795476600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "278 & 141/2 | Queensland lead by 116 runs",
+    "description": "278 & 306/6d | NSW require 163 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -72,10 +72,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -86,17 +93,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -113,7 +113,7 @@
     "time": "06:00 AM",
     "start_timestamp_ms": 1795478400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "272/8 | South Aust won toss & batted",
+    "description": "217/3 | Victoria trail by 70 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -124,10 +124,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -138,17 +145,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -165,7 +165,7 @@
     "time": "08:30 AM",
     "start_timestamp_ms": 1795487400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "342/10 | West Aust trail by 145 runs",
+    "description": "342/10 | West Aust lead by 25 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -176,10 +176,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -190,17 +197,60 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1557572_20261125",
+    "category": "Cricket",
+    "event_name": "ICC Women's Emerging Nations Trophy",
+    "league_priority": 11,
+    "team1": "Ireland Women",
+    "team2": "Sri Lanka Women",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2234.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3621.png",
+    "date": "2026-11-25",
+    "time": "11:00 AM",
+    "start_timestamp_ms": 1795582800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "96 | SL Women won toss & fielded",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "Willow Sports",
-        "quality": "1080p",
+        "title": "T Sports (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "title": "T Sports HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "title": "GAZI TV HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
       }
     ]
   },
@@ -247,9 +297,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -266,7 +316,7 @@
     "time": "05:30 AM",
     "start_timestamp_ms": 1795563000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "278 & 141/2 | Queensland lead by 116 runs",
+    "description": "278 & 306/6d | NSW require 163 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -277,10 +327,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -291,17 +348,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -318,7 +368,7 @@
     "time": "06:00 AM",
     "start_timestamp_ms": 1795564800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "272/8 | South Aust won toss & batted",
+    "description": "217/3 | Victoria trail by 70 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -329,10 +379,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -343,17 +400,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -370,7 +420,7 @@
     "time": "08:30 AM",
     "start_timestamp_ms": 1795573800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "342/10 | West Aust trail by 145 runs",
+    "description": "342/10 | West Aust lead by 25 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -381,10 +431,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -395,17 +452,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -447,10 +497,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -499,10 +549,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -510,108 +560,6 @@
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401933738_20261125",
-    "category": "Football",
-    "event_name": "American MLS",
-    "league_priority": 9,
-    "team1": "San Jose Earthquakes",
-    "team2": "Houston Dynamo FC",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
-    "date": "2026-11-25",
-    "time": "09:00 AM",
-    "start_timestamp_ms": 1795575600000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "PayPal Park",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "FS1",
-      "Apple TV"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
-      },
-      {
-        "title": "Fox Sports HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
-      },
-      {
-        "title": "TSN 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
-      }
-    ]
-  },
-  {
-    "id": "crick_1557572_20261125",
-    "category": "Cricket",
-    "event_name": "ICC Women's Emerging Nations Trophy",
-    "league_priority": 11,
-    "team1": "Ireland Women",
-    "team2": "Sri Lanka Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/2234.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/3621.png",
-    "date": "2026-11-25",
-    "time": "11:00 AM",
-    "start_timestamp_ms": 1795582800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Karwan Sports Club Cricket Ground, Ajman",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "T Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
-      },
-      {
-        "title": "T Sports HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "title": "GAZI TV HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
       }
     ]
   },
@@ -639,10 +587,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -653,17 +608,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -691,10 +639,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -711,9 +659,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -760,9 +708,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -779,7 +727,7 @@
     "time": "06:00 AM",
     "start_timestamp_ms": 1795651200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "272/8 | South Aust won toss & batted",
+    "description": "217/3 | Victoria trail by 70 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -790,10 +738,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -804,17 +759,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -831,7 +779,7 @@
     "time": "08:30 AM",
     "start_timestamp_ms": 1795660200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "342/10 | West Aust trail by 145 runs",
+    "description": "342/10 | West Aust lead by 25 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -842,10 +790,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -856,17 +811,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -1108,10 +1056,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1160,10 +1108,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1212,10 +1160,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1264,10 +1212,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1316,10 +1264,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1368,10 +1316,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1420,10 +1368,10 @@
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
+        "title": "SONY SPORTS TEN 2",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/302/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2316,10 +2264,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2366,10 +2314,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2386,9 +2334,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -2416,10 +2364,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2430,17 +2385,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -2468,10 +2416,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2482,17 +2437,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -2520,10 +2468,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2540,9 +2488,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -2736,9 +2684,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -2755,7 +2703,7 @@
     "time": "06:00 AM",
     "start_timestamp_ms": 1795737600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "272/8 | South Aust won toss & batted",
+    "description": "217/3 | Victoria trail by 70 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -2766,10 +2714,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2780,17 +2735,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -3738,9 +3686,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -3774,17 +3722,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -3824,10 +3772,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3874,10 +3822,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3888,17 +3843,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -3926,10 +3874,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3946,9 +3894,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -4123,10 +4071,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4134,13 +4089,6 @@
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 TAMIL",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4166,20 +4114,23 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "The City Ground",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "USA Net",
+      "Universo"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4218,20 +4169,23 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Elland Road",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "USA Net",
+      "Universo"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4270,20 +4224,22 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Old Trafford",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Peacock"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4322,20 +4278,23 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Portman Road",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "USA Net",
+      "Tele"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4980,6 +4939,7 @@
     "description": "America First Field",
     "meta_keywords": "UPCOMING",
     "official_tv": [
+      "FOX",
       "FS1",
       "Apple TV"
     ],
@@ -5104,9 +5064,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -5140,10 +5100,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5160,9 +5120,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -5190,10 +5150,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5204,17 +5171,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -5242,10 +5202,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5256,17 +5223,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -5294,10 +5254,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5314,9 +5274,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -5344,10 +5304,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5364,9 +5324,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -5746,7 +5706,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Weserstadion",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -5795,7 +5757,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "RheinEnergieStadion",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -5844,7 +5808,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Volksparkstadion",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -5893,7 +5859,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "MEWA ARENA",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -5942,7 +5910,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Home Deluxe Arena",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -5991,7 +5961,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "MHPArena",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -6040,7 +6012,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Stade Francis-Le Blé",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -6090,7 +6064,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Stade Raymond Kopa",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -6140,20 +6116,23 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Hill Dickinson Stadium",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "USA Net",
+      "Universo"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6192,20 +6171,23 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "American Express Stadium",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "USA Net",
+      "Universo"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6244,20 +6226,22 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Selhurst Park",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Peacock"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6296,20 +6280,22 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Craven Cottage",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Peacock"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6348,20 +6334,22 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Stadium of Light",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Peacock"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6400,20 +6388,23 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Emirates Stadium",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "USA Net",
+      "Tele"
+    ],
     "stream_ads": [
-      {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
       {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6824,9 +6815,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -6860,17 +6851,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -6910,10 +6901,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6924,17 +6922,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -6962,10 +6953,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6976,17 +6974,10 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -7014,10 +7005,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7034,9 +7025,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -7064,10 +7055,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7084,9 +7075,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -7519,7 +7510,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Europa-Park Stadion",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -7568,7 +7561,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "PreZero Arena",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -7617,7 +7612,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Stade Océane",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -7667,7 +7664,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Stade Marie-Marvingt",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -7717,7 +7716,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Allianz Riviera",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -7767,7 +7768,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Parc des Princes",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -7817,7 +7820,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Stade de l'Abbé-Deschamps",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -7867,7 +7872,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Stadium Municipal de Toulouse",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -7939,9 +7946,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -7975,10 +7982,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7995,9 +8002,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -8170,7 +8177,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Signal Iduna Park",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "Fandango"
+    ],
     "stream_ads": [
       {
         "title": "Sony Ten Sports 1 HD (BDIX)",
@@ -8219,7 +8228,9 @@
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Groupama Stadium",
     "meta_keywords": "UPCOMING",
-    "official_tv": [],
+    "official_tv": [
+      "beIn Sports"
+    ],
     "stream_ads": [
       {
         "title": "beIN Sports 1",
@@ -8278,10 +8289,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 HINDI",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8289,13 +8307,6 @@
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 TAMIL",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8343,9 +8354,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -8398,9 +8409,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -8428,10 +8439,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8448,9 +8459,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -8478,10 +8489,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8498,9 +8509,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -8625,17 +8636,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9127,17 +9138,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -9177,10 +9188,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9197,9 +9208,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -9227,10 +9238,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 1 KANNADA",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1373/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9247,9 +9258,9 @@
       },
       {
         "title": "Willow Sports",
-        "quality": "1080p",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+        "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8"
       }
     ]
   },
@@ -9810,17 +9821,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9862,17 +9873,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9914,17 +9925,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9966,17 +9977,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10018,17 +10029,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10070,17 +10081,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10122,17 +10133,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10174,17 +10185,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1 HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {

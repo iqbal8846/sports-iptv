@@ -12,7 +12,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795730400000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "59/3 | India trail by 297 runs",
+    "description": "116/6 | India trail by 240 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -38,7 +38,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -49,54 +49,153 @@
     ]
   },
   {
-    "id": "foot_401933727_20261128",
+    "id": "foot_401880135_20261128",
     "category": "Football",
-    "event_name": "American MLS",
-    "league_priority": 9,
-    "team1": "Columbus Crew",
-    "team2": "Inter Miami CF",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+    "event_name": "EFL Championship",
+    "league_priority": 2,
+    "team1": "Blackburn Rovers",
+    "team2": "Charlton Athletic",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/365.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
     "date": "2026-11-28",
-    "time": "07:00 AM",
-    "start_timestamp_ms": 1795827600000,
+    "time": "06:30 PM",
+    "start_timestamp_ms": 1795869000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 88'",
+    "description": "0 : 0 | 9'",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Sky Sports 1",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      },
+      {
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401880133_20261128",
+    "category": "Football",
+    "event_name": "EFL Championship",
+    "league_priority": 2,
+    "team1": "Lincoln City",
+    "team2": "Wolverhampton Wanderers",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/314.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+    "date": "2026-11-28",
+    "time": "06:30 PM",
+    "start_timestamp_ms": 1795869000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "0 : 0 | 9'",
     "meta_keywords": "LIVE",
     "official_tv": [
-      "FS1",
-      "Apple TV"
+      "Paramount+"
     ],
     "stream_ads": [
       {
-        "title": "Fox Sports 1",
+        "title": "Sky Sports 1",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Fox Sports 2 (BDIX)",
+        "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "FOX Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-0cj3rny4e3uhs.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US2700001QY"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
+        "title": "beIN SPORTS 2 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
-        "title": "TSN 2 (BDIX)",
+        "title": "Setanta Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "foot_401880131_20261128",
+    "category": "Football",
+    "event_name": "EFL Championship",
+    "league_priority": 2,
+    "team1": "Preston North End",
+    "team2": "Norwich City",
+    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/394.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
+    "date": "2026-11-28",
+    "time": "06:30 PM",
+    "start_timestamp_ms": 1795869000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "0 : 0 | 9'",
+    "meta_keywords": "LIVE",
+    "official_tv": [
+      "Paramount+"
+    ],
+    "stream_ads": [
+      {
+        "title": "Sky Sports 1",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
+      },
+      {
+        "title": "CBS Sports Golazo Network",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
+      },
+      {
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -113,7 +212,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795816800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "59/3 | India trail by 297 runs",
+    "description": "116/6 | India trail by 240 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -139,13 +238,63 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1557451_20261128",
+    "category": "Cricket",
+    "event_name": "International League T20",
+    "league_priority": 15,
+    "team1": "Desert Vipers",
+    "team2": "MI Emirates",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1346066.png",
+    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1328788.png",
+    "date": "2026-11-28",
+    "time": "04:00 PM",
+    "start_timestamp_ms": 1795860000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "186/4 | Vipers require 125 runs",
+    "meta_keywords": "LIVE",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 TELUGU HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "T Sports (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "title": "T Sports HD (BDIX)",
+        "quality": "BDIX · HD",
+        "type": "m3u8",
+        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -170,17 +319,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -224,17 +373,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -279,17 +428,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -310,157 +459,6 @@
         "quality": "1080p",
         "type": "m3u8",
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401880135_20261128",
-    "category": "Football",
-    "event_name": "EFL Championship",
-    "league_priority": 2,
-    "team1": "Blackburn Rovers",
-    "team2": "Charlton Athletic",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/365.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
-    "date": "2026-11-28",
-    "time": "06:30 PM",
-    "start_timestamp_ms": 1795869000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Ewood Park",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401880133_20261128",
-    "category": "Football",
-    "event_name": "EFL Championship",
-    "league_priority": 2,
-    "team1": "Lincoln City",
-    "team2": "Wolverhampton Wanderers",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/314.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-    "date": "2026-11-28",
-    "time": "06:30 PM",
-    "start_timestamp_ms": 1795869000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "LNER Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401880131_20261128",
-    "category": "Football",
-    "event_name": "EFL Championship",
-    "league_priority": 2,
-    "team1": "Preston North End",
-    "team2": "Norwich City",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/394.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
-    "date": "2026-11-28",
-    "time": "06:30 PM",
-    "start_timestamp_ms": 1795869000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Deepdale",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       }
     ]
   },
@@ -489,15 +487,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -506,10 +498,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -538,15 +536,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -555,10 +547,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -589,15 +587,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -606,10 +598,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -638,15 +636,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -655,10 +647,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -689,15 +687,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -706,10 +698,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -740,15 +738,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -757,10 +749,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -791,15 +789,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -808,62 +800,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401933725_20261128",
-    "category": "Football",
-    "event_name": "American MLS",
-    "league_priority": 9,
-    "team1": "Real Salt Lake",
-    "team2": "Vancouver Whitecaps",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-    "date": "2026-11-28",
-    "time": "09:00 AM",
-    "start_timestamp_ms": 1795834800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "America First Field",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "FS1",
-      "Apple TV"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports 2 (BDIX)",
+        "title": "beIN SPORTS 2 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
-        "title": "FOX Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-0cj3rny4e3uhs.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US2700001QY"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
+        "title": "Setanta Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
-      },
-      {
-        "title": "TSN 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -919,210 +865,6 @@
     ]
   },
   {
-    "id": "crick_1554272_20261128",
-    "category": "Cricket",
-    "event_name": "England Women Under-19s tour of India 2026/27",
-    "league_priority": 11,
-    "team1": "India Women Under-19s",
-    "team2": "England Women Under-19s",
-    "logo1": "",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1336151.png",
-    "date": "2026-11-28",
-    "time": "01:30 PM",
-    "start_timestamp_ms": 1795851000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Kotambi Stadium, Vadodara",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "DD Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
-      },
-      {
-        "title": "DD Sports HD",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://cdn.pishow.tv/ott/live/1161/master.m3u8"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1543980_20261128",
-    "category": "Cricket",
-    "event_name": "Women's Big Bash League",
-    "league_priority": 14,
-    "team1": "Melbourne Renegades Women",
-    "team2": "Melbourne Stars Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896407.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/896399.png",
-    "date": "2026-11-28",
-    "time": "10:40 AM",
-    "start_timestamp_ms": 1795840800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Junction Oval, Melbourne",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 KANNADA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1543981_20261128",
-    "category": "Cricket",
-    "event_name": "Women's Big Bash League",
-    "league_priority": 14,
-    "team1": "Sydney Thunder Women",
-    "team2": "Sydney Sixers Women",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896401.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/896403.png",
-    "date": "2026-11-28",
-    "time": "02:10 PM",
-    "start_timestamp_ms": 1795853400000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Drummoyne Oval, Sydney",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "STAR SPORTS 2 KANNADA",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "crick_1557451_20261128",
-    "category": "Cricket",
-    "event_name": "International League T20",
-    "league_priority": 15,
-    "team1": "Desert Vipers",
-    "team2": "MI Emirates",
-    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/1346066.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/1328788.png",
-    "date": "2026-11-28",
-    "time": "04:00 PM",
-    "start_timestamp_ms": 1795860000000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Zayed Cricket Stadium, Abu Dhabi",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Star Sports 1 Hindi",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
-      },
-      {
-        "title": "STAR SPORTS 1 TAMIL HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "T Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
-      },
-      {
-        "title": "T Sports HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "title": "Willow Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      }
-    ]
-  },
-  {
     "id": "crick_1557452_20261128",
     "category": "Cricket",
     "event_name": "International League T20",
@@ -1146,10 +888,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1168,7 +910,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -1349,9 +1091,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -1360,16 +1102,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -1400,9 +1142,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -1411,16 +1153,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -1474,10 +1216,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -1525,10 +1267,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -1576,10 +1318,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -1627,10 +1369,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -1678,10 +1420,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -1705,34 +1447,35 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 1 Turk",
-        "quality": "1080p",
-        "type": "ts",
-        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
         "title": "beIN SPORTS 2 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
+        "title": "Arena Sport 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -1749,7 +1492,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795903200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "59/3 | India trail by 297 runs",
+    "description": "116/6 | India trail by 240 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -1775,7 +1518,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -1806,17 +1549,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1861,17 +1604,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1915,17 +1658,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1969,17 +1712,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2023,17 +1766,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2078,17 +1821,17 @@
     ],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2139,15 +1882,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -2156,10 +1893,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -2188,9 +1931,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -2486,17 +2229,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -2536,10 +2279,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2586,17 +2329,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2610,7 +2353,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -2638,17 +2381,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2662,7 +2405,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -2690,10 +2433,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2712,7 +2455,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -2740,10 +2483,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2762,7 +2505,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -2995,9 +2738,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -3006,16 +2749,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -3047,9 +2790,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -3058,16 +2801,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -3099,9 +2842,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -3110,16 +2853,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -3150,9 +2893,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -3161,16 +2904,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -3224,10 +2967,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -3275,10 +3018,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -3300,22 +3043,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -3324,11 +3055,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -3350,22 +3093,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -3374,11 +3105,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -3400,22 +3143,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -3424,11 +3155,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -3450,22 +3193,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -3474,11 +3205,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -3502,34 +3245,35 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 1 Turk",
-        "quality": "1080p",
-        "type": "ts",
-        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
         "title": "beIN SPORTS 2 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
+        "title": "Arena Sport 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -3553,34 +3297,35 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 1 Turk",
-        "quality": "1080p",
-        "type": "ts",
-        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
         "title": "beIN SPORTS 2 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
+        "title": "Arena Sport 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -3597,7 +3342,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1795989600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "59/3 | India trail by 297 runs",
+    "description": "116/6 | India trail by 240 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -3623,7 +3368,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -3657,10 +3402,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3679,7 +3424,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -3756,9 +3501,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -3767,16 +3512,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -3807,9 +3552,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -3818,16 +3563,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -3881,10 +3626,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -3908,34 +3653,35 @@
     ],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 1 Turk",
-        "quality": "1080p",
-        "type": "ts",
-        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      },
-      {
         "title": "beIN SPORTS 2 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
+        "title": "Arena Sport 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -3963,17 +3709,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3985,9 +3731,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       }
     ]
   },
@@ -4004,7 +3750,7 @@
     "time": "04:00 AM",
     "start_timestamp_ms": 1796076000000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "59/3 | India trail by 297 runs",
+    "description": "116/6 | India trail by 240 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -4030,7 +3776,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -4085,7 +3831,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -4113,17 +3859,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "DD Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       },
       {
         "title": "DD Sports HD",
@@ -4135,7 +3881,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -4163,10 +3909,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4185,7 +3931,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -4262,9 +4008,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -4273,16 +4019,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -4310,17 +4056,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4369,15 +4115,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4412,15 +4152,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4455,15 +4189,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4498,15 +4226,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4541,15 +4263,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4584,15 +4300,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4627,15 +4337,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4670,15 +4374,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4713,15 +4411,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4756,15 +4448,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4799,15 +4485,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4842,15 +4522,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -4884,17 +4558,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       },
       {
         "title": "Willow Sports (BDIX)",
@@ -4934,10 +4608,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4956,7 +4630,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -4984,10 +4658,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5006,7 +4680,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -5567,17 +5241,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5619,17 +5293,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5671,17 +5345,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5723,17 +5397,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5775,17 +5449,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5827,17 +5501,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5879,17 +5553,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5931,17 +5605,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -5990,9 +5664,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -6033,9 +5707,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -6076,9 +5750,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -6119,9 +5793,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -6162,9 +5836,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -6205,9 +5879,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -6237,57 +5911,6 @@
     "start_timestamp_ms": 1796256000000,
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Gillette Stadium",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "Apple TV"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
-      },
-      {
-        "title": "FOX Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-0cj3rny4e3uhs.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US2700001QY"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
-      },
-      {
-        "title": "TSN 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
-      }
-    ]
-  },
-  {
-    "id": "foot_401933720_20261203",
-    "category": "Football",
-    "event_name": "American MLS",
-    "league_priority": 9,
-    "team1": "Inter Miami CF",
-    "team2": "Columbus Crew",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-    "date": "2026-12-03",
-    "time": "06:30 AM",
-    "start_timestamp_ms": 1796257800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "Nu Stadium",
     "meta_keywords": "UPCOMING",
     "official_tv": [
       "Apple TV"
@@ -6530,57 +6153,6 @@
     ]
   },
   {
-    "id": "foot_401933717_20261203",
-    "category": "Football",
-    "event_name": "American MLS",
-    "league_priority": 9,
-    "team1": "Vancouver Whitecaps",
-    "team2": "Real Salt Lake",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-    "date": "2026-12-03",
-    "time": "08:00 AM",
-    "start_timestamp_ms": 1796263200000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "BC Place",
-    "meta_keywords": "UPCOMING",
-    "official_tv": [
-      "Apple TV"
-    ],
-    "stream_ads": [
-      {
-        "title": "Fox Sports 1",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "title": "Fox Sports 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3"
-      },
-      {
-        "title": "FOX Sports",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-0cj3rny4e3uhs.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US2700001QY"
-      },
-      {
-        "title": "TSN 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130"
-      },
-      {
-        "title": "TSN 2 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1784102518&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cba9240a1b91322266a3f7c57824bb3"
-      }
-    ]
-  },
-  {
     "id": "foot_401933715_20261203",
     "category": "Football",
     "event_name": "American MLS",
@@ -6655,17 +6227,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
         "title": "DD Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       },
       {
         "title": "DD Sports HD",
@@ -6677,7 +6249,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -6705,17 +6277,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6729,7 +6301,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -6757,17 +6329,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6781,7 +6353,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -6809,17 +6381,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6833,7 +6405,59 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1543985_20261203",
+    "category": "Cricket",
+    "event_name": "Women's Big Bash League",
+    "league_priority": 14,
+    "team1": "Perth Scorchers Women",
+    "team2": "TBA",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896405.png",
+    "logo2": "",
+    "date": "2026-12-03",
+    "time": "06:00 AM",
+    "start_timestamp_ms": 1796256000000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Women's Big Bash League",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 TELUGU HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 KANNADA",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -6861,10 +6485,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6883,7 +6507,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -7697,17 +7321,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7755,10 +7379,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7805,10 +7429,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7876,7 +7500,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -7904,17 +7528,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7928,7 +7552,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -7956,17 +7580,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7980,7 +7604,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -8008,17 +7632,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8032,7 +7656,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -8060,10 +7684,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8082,7 +7706,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -8600,17 +8224,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8622,9 +8246,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       }
     ]
   },
@@ -8652,17 +8276,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8674,9 +8298,9 @@
       },
       {
         "title": "DD Sports",
-        "quality": "Live",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       }
     ]
   },
@@ -8698,17 +8322,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8750,17 +8374,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8802,17 +8426,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8854,17 +8478,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8906,17 +8530,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8958,17 +8582,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9019,15 +8643,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9036,10 +8654,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9070,15 +8694,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9087,10 +8705,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9121,15 +8745,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9138,10 +8756,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9172,15 +8796,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9189,10 +8807,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9221,15 +8845,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9238,10 +8856,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9270,15 +8894,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9287,10 +8905,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9321,15 +8945,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9338,10 +8956,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9372,15 +8996,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9389,10 +9007,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9421,15 +9045,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9438,10 +9056,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9472,15 +9096,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9489,10 +9107,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9523,15 +9147,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Bein Sports 1 (BDIX)",
@@ -9540,10 +9158,16 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "title": "beIN Sports 2",
-        "quality": "Live",
+        "title": "beIN SPORTS 2 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+        "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       }
     ]
   },
@@ -9579,17 +9203,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9630,17 +9253,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9681,17 +9303,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9732,17 +9353,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9783,17 +9403,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9834,17 +9453,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9885,17 +9503,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9936,17 +9553,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -9987,17 +9603,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10038,17 +9653,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10089,17 +9703,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10140,17 +9753,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10191,17 +9803,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10244,17 +9855,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10290,9 +9900,9 @@
       },
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "Premier Sports",
@@ -10332,10 +9942,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10382,10 +9992,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10426,16 +10036,17 @@
     "official_tv": [],
     "stream_ads": [
       {
+        "title": "PTV Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://ay-obiram.emonsa4.workers.dev/ptv-sports.m3u8",
+        "referer": "https://obiramtvlive.pages.dev/"
+      },
+      {
         "title": "PTV Sports (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059"
-      },
-      {
-        "title": "PTV Sports",
-        "quality": "Live",
-        "type": "ts",
-        "url": "http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/89.ts"
       },
       {
         "title": "A sports (BDIX)",
@@ -10444,16 +10055,16 @@
         "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9"
       },
       {
+        "title": "A Sports",
+        "quality": "Live",
+        "type": "ts",
+        "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/247168.ts"
+      },
+      {
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-      },
-      {
-        "title": "Willow Sports (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -10481,17 +10092,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10505,7 +10116,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -10533,17 +10144,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10557,7 +10168,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -10585,17 +10196,17 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI HD",
-        "quality": "HD",
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/377/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10609,7 +10220,59 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "crick_1543986_20261205",
+    "category": "Cricket",
+    "event_name": "Women's Big Bash League",
+    "league_priority": 14,
+    "team1": "Sydney Sixers Women",
+    "team2": "TBA",
+    "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/896403.png",
+    "logo2": "",
+    "date": "2026-12-05",
+    "time": "06:00 AM",
+    "start_timestamp_ms": 1796428800000,
+    "timezone": "Asia/Dhaka (UTC+6)",
+    "description": "Women's Big Bash League",
+    "meta_keywords": "UPCOMING",
+    "official_tv": [],
+    "stream_ads": [
+      {
+        "title": "Star Sports 1 Hindi",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      },
+      {
+        "title": "STAR SPORTS 1 TELUGU HD",
+        "quality": "HD",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1079/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS 2 KANNADA",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "Willow Sports",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -10637,10 +10300,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TAMIL HD",
+        "title": "STAR SPORTS 1 TELUGU HD",
         "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1515/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1393/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10659,7 +10322,7 @@
         "title": "Willow Sports",
         "quality": "Live",
         "type": "m3u8",
-        "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
       }
     ]
   },
@@ -10888,9 +10551,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -10899,16 +10562,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -10939,9 +10602,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -10950,16 +10613,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -10990,9 +10653,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -11001,16 +10664,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -11062,10 +10725,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -11111,10 +10774,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -11160,10 +10823,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -11209,10 +10872,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -11258,10 +10921,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -11307,10 +10970,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -11356,10 +11019,10 @@
         "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
+        "title": "Bein Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
         "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       }
     ]
   },
@@ -11381,22 +11044,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -11405,11 +11056,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -11431,22 +11094,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -11455,11 +11106,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -11481,17 +11144,17 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "STAR SPORTS SELECT 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
         "title": "STAR SPORTS SELECT 1 HD",
         "quality": "HD",
         "type": "m3u8",
         "url": "http://cdn.pishow.tv/live/1175/master.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+      },
+      {
+        "title": "STAR SPORTS SELECT 1",
+        "quality": "Live",
+        "type": "m3u8",
+        "url": "http://cdn.pishow.tv/live/1311/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -11547,17 +11210,16 @@
         "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 4 TAMIL",
-        "quality": "Live",
+        "title": "Sony Sports Ten 3 Hindi",
+        "quality": "1080p",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/304/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
+        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
       },
       {
-        "title": "SONY SPORTS TEN 3 HINDI HD",
-        "quality": "HD",
+        "title": "SONY SPORTS TEN 5",
+        "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/338/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/305/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -11640,9 +11302,9 @@
     "stream_ads": [
       {
         "title": "CBS Sports Golazo Network",
-        "quality": "Live",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-naf96seqwi08m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=US100000704"
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
         "title": "TNT Sports 1 (BDIX)",
@@ -11651,16 +11313,16 @@
         "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       },
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
       },
       {
         "title": "Eleven Sports 1",
@@ -11688,22 +11350,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -11712,11 +11362,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -11738,22 +11400,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -11762,11 +11412,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -11788,22 +11450,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -11812,11 +11462,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -11838,22 +11500,10 @@
     "official_tv": [],
     "stream_ads": [
       {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
         "title": "Bein Sports 1 (BDIX)",
         "quality": "BDIX · Live",
         "type": "m3u8",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
       },
       {
         "title": "beIN SPORTS 2 (BDIX)",
@@ -11862,11 +11512,23 @@
         "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
       },
       {
+        "title": "Setanta Sports 1 (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "m3u8",
+        "url": "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+      },
+      {
         "title": "Arena Sport 1",
         "quality": "Live",
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      },
+      {
+        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
+        "quality": "BDIX · Live",
+        "type": "ts",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   }
